@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://m3ukodi.com/servicios/ott/epg/epg-guide.php
+#EXTM3U x-tvg-url=https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml
 #EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
 http://clubtv.link/mayo13/may013/distro.php?c=euronews-spa&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
