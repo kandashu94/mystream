@@ -1,5 +1,77 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml
 
+#EXTINF:-1 group-title="INFANTIL",TOONCAST
+http://clubtv.link/17may/170may/geomex.php?c=108&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
+http://clubtv.link/17may/170may/geomex.php?c=109&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",NICK
+http://clubtv.link/17may/170may/geomex.php?c=110&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISNEY XD
+http://clubtv.link/17may/170may/geomex.php?c=111&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK
+http://clubtv.link/17may/170may/geomex.php?c=112&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL
+http://clubtv.link/17may/170may/geomex.php?c=113&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",Cartoonito
+http://clubtv.link/17may/170may/geomex.php?c=115&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",BABY TV 
+http://clubtv.link/17may/170may/geomex.php?c=116&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",NICK JR
+http://clubtv.link/17may/170may/geomex.php?c=117&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISNEY JR
+http://clubtv.link/17may/170may/geomex.php?c=118&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",NICKTOONS SD 
+http://clubtv.link/17may/170may/geomex.php?c=1708&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",BABY FIRST
+http://clubtv.link/17may/170may/geomex.php?c=1984&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",NICK 2  
+http://clubtv.link/17may/170may/geomex.php?c=2147&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",NAT GEO KIDS  
+http://clubtv.link/17may/170may/geomex.php?c=2373&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",BIT ME  
+http://clubtv.link/17may/170may/geomex.php?c=2591&f=.m3u8
+
+
+#EXTINF:-1 group-title="CULTURA",DISCOVERY ID
+http://clubtv.link/17may/170may/geomex.php?c=68&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",GARAGE TV 
+http://clubtv.link/17may/170may/geomex.php?c=75&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL
+http://clubtv.link/17may/170may/geomex.php?c=86&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET
+http://clubtv.link/17may/170may/geomex.php?c=88&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",HISTORY
+http://clubtv.link/17may/170may/geomex.php?c=89&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",NAT GEO  
+http://clubtv.link/17may/170may/geomex.php?c=91&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",NAT GEO WILD
+http://clubtv.link/17may/170may/geomex.php?c=92&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY THEATER
+http://clubtv.link/17may/170may/geomex.php?c=95&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",H&H
+http://clubtv.link/17may/170may/geomex.php?c=96&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",TLC
+http://clubtv.link/17may/170may/geomex.php?c=97&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY SCIENCE  
+http://clubtv.link/17may/170may/geomex.php?c=98&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY CIVILIZATION
+http://clubtv.link/17may/170may/geomex.php?c=99&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY WORLD
+http://clubtv.link/17may/170may/geomex.php?c=101&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",TVE
+http://clubtv.link/17may/170may/geomex.php?c=198&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",SHOPPING
+http://clubtv.link/17may/170may/geomex.php?c=1943&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",FOOD NETWORK 
+http://clubtv.link/17may/170may/geomex.php?c=2145&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",STAR TVE 
+http://clubtv.link/17may/170may/geomex.php?c=2375&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY TURBO
+http://clubtv.link/17may/170may/geomex.php?c=2379&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",CURIOSITY STREAM
+http://clubtv.link/17may/170may/geomex.php?c=2594&f=.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="DISTRO TV",Euronews Español
 http://clubtv.link/17may/170may/distro.php?c=euronews-spa&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine
@@ -34,1073 +106,325 @@ http://clubtv.link/17may/170may/distro.php?c=chiquilines&f=.m3u8
 http://clubtv.link/17may/170may/distro.php?c=glewedtv-spanish&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", RT ESPANOL
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", VIDEOROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", REWIND TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
+http://clubtv.link/17may/170may/geomex.php?c=85&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX  
+http://clubtv.link/17may/170may/geomex.php?c=46&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SONY  
+http://clubtv.link/17may/170may/geomex.php?c=48&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER  
+http://clubtv.link/17may/170may/geomex.php?c=52&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E!
+http://clubtv.link/17may/170may/geomex.php?c=55&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL
+http://clubtv.link/17may/170may/geomex.php?c=57&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SYFY
+http://clubtv.link/17may/170may/geomex.php?c=59&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FX
+http://clubtv.link/17may/170may/geomex.php?c=60&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
+http://clubtv.link/17may/170may/geomex.php?c=62&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
+http://clubtv.link/17may/170may/geomex.php?c=64&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE SD
+http://clubtv.link/17may/170may/geomex.php?c=66&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SUNDANCE TV
+http://clubtv.link/17may/170may/geomex.php?c=69&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",sun SERIES
+http://clubtv.link/17may/170may/geomex.php?c=71&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",GLITZ
+http://clubtv.link/17may/170may/geomex.php?c=76&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",GOURMET 
+http://clubtv.link/17may/170may/geomex.php?c=74&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX LIFE
+http://clubtv.link/17may/170may/geomex.php?c=77&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA SD
+http://clubtv.link/17may/170may/geomex.php?c=78&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV
+http://clubtv.link/17may/170may/geomex.php?c=79&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TL NOVELAS SD
+http://clubtv.link/17may/170may/geomex.php?c=83&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",LIFETIME 
+http://clubtv.link/17may/170may/geomex.php?c=94&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ANTENA 3
+http://clubtv.link/17may/170may/geomex.php?c=199&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX HD 
+http://clubtv.link/17may/170may/geomex.php?c=201&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER HD 
+http://clubtv.link/17may/170may/geomex.php?c=205&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL HD
+http://clubtv.link/17may/170may/geomex.php?c=207&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FX HD
+http://clubtv.link/17may/170may/geomex.php?c=209&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV HD
+http://clubtv.link/17may/170may/geomex.php?c=215&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HOLA TV HD
+http://clubtv.link/17may/170may/geomex.php?c=219&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://clubtv.link/17may/170may/geomex.php?c=340&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL SD
+http://clubtv.link/17may/170may/geomex.php?c=341&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE
+http://clubtv.link/17may/170may/geomex.php?c=1499&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",MAS CHIC
+http://clubtv.link/17may/170may/geomex.php?c=1842&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A3SERIES
+http://clubtv.link/17may/170may/geomex.php?c=2113&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeokids.png" group-title="Infantiles" , Nat Geo Kids
-https://clubtv.link/17may/170may/lista3.php?c=412&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Infantiles" , Nick
-https://clubtv.link/17may/170may/lista3.php?c=78&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="Infantiles" , Nick Toons
-https://clubtv.link/17may/170may/lista3.php?c=80&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="Infantiles" , Nickelodeon
-https://clubtv.link/17may/170may/lista3.php?c=184&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantiles" , TeenNick
-https://clubtv.link/17may/170may/lista3.php?c=882&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Infantiles" , Nick JR
-https://clubtv.link/17may/170may/lista3.php?c=79&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" group-title="Infantiles" , Tiin
-https://clubtv.link/17may/170may/lista3.php?c=93&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="Infantiles" , Baby TV
-https://clubtv.link/17may/170may/lista3.php?c=7&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles" , Cartoon Network
-https://clubtv.link/17may/170may/lista3.php?c=17&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles" , Cartoon Network Sur
-https://clubtv.link/17may/170may/lista3.php?c=737&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="Infantiles" , Cartoonito (Boomerang)
-https://clubtv.link/17may/170may/lista3.php?c=11&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="Infantiles" , Cartoonito Sur
-https://clubtv.link/17may/170may/lista3.php?c=735&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbeebies.png" group-title="Infantiles" , CBeebies
-https://clubtv.link/17may/170may/lista3.php?c=13&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" , Discovery Kids
-https://clubtv.link/17may/170may/lista3.php?c=25&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" , Disney Channel
-https://clubtv.link/17may/170may/lista3.php?c=29&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" , Disney Junior
-https://clubtv.link/17may/170may/lista3.php?c=30&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" , Disney Junior Sur
-https://clubtv.link/17may/170may/lista3.php?c=743&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles" , Disney XD
-https://clubtv.link/17may/170may/lista3.php?c=31&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles" , Disney XD Sur
-https://clubtv.link/17may/170may/lista3.php?c=744&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="Infantiles" , Tooncast
-https://clubtv.link/17may/170may/lista3.php?c=95&f=.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura" , Animal Planet
-https://clubtv.link/17may/170may/lista3.php?c=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" , Discovery Channel
-https://clubtv.link/17may/170may/lista3.php?c=22&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" , Discovery Channel Sur
-https://clubtv.link/17may/170may/lista3.php?c=741&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="Cultura" , Discovery Civilization
-https://clubtv.link/17may/170may/lista3.php?c=23&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" , Discovery H&H
-https://clubtv.link/17may/170may/lista3.php?c=24&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" , Discovery H&H Sur
-https://clubtv.link/17may/170may/lista3.php?c=742&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" , Discovery SCI
-https://clubtv.link/17may/170may/lista3.php?c=26&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="Cultura" , Discovery Theater
-https://clubtv.link/17may/170may/lista3.php?c=27&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" , Discovery Turbo
-https://clubtv.link/17may/170may/lista3.php?c=28&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" , Discovery World
-https://clubtv.link/17may/170may/lista3.php?c=187&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" , H2
-https://clubtv.link/17may/170may/lista3.php?c=61&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" , H2 Sur
-https://clubtv.link/17may/170may/lista3.php?c=760&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" , History Channel
-https://clubtv.link/17may/170may/lista3.php?c=67&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" , Investigation Discovery
-https://clubtv.link/17may/170may/lista3.php?c=68&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="Cultura" , Nat Geo
-https://clubtv.link/17may/170may/lista3.php?c=76&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Cultura" , Nat Geo Wild
-https://clubtv.link/17may/170may/lista3.php?c=77&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Cine y Series" , A&E
-https://clubtv.link/17may/170may/lista3.php?c=1&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Cine y Series" , A&E Sur
-https://clubtv.link/17may/170may/lista3.php?c=734&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento" , Anime 24H
-https://clubtv.link/17may/170may/lista3.php?c=269&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="HD" , A&E
-https://clubtv.link/17may/170may/lista3.php?c=474&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="Mexico" , A+
-https://clubtv.link/17may/170may/lista3.php?c=406&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="España" , A3Series
-https://clubtv.link/17may/170may/lista3.php?c=444&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" group-title="Noticias" , ADN 40
-https://clubtv.link/17may/170may/lista3.php?c=447&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes" , Afizzionados
-https://clubtv.link/17may/170may/lista3.php?c=878&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7" , Alf 24/7
-https://clubtv.link/17may/170may/lista3.php?c=426&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Cine y Series" , AMC
-https://clubtv.link/17may/170may/lista3.php?c=183&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="España" , AMC ES
-https://clubtv.link/17may/170may/lista3.php?c=715&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="HD" , AMC
-https://clubtv.link/17may/170may/lista3.php?c=475&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Peru" , America
-https://clubtv.link/17may/170may/lista3.php?c=780&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="HD" , Animal Planet
-https://clubtv.link/17may/170may/lista3.php?c=633&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7" , Animaniacs 24/7
-https://clubtv.link/17may/170may/lista3.php?c=677&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España" , Antena 3
-https://clubtv.link/17may/170may/lista3.php?c=298&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Cine y Series" , AXN
-https://clubtv.link/17may/170may/lista3.php?c=146&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Cine y Series" , AXN Sur
-https://clubtv.link/17may/170may/lista3.php?c=804&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="España" , AXN (ES)
-https://clubtv.link/17may/170may/lista3.php?c=713&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="HD" , AXN
-https://clubtv.link/17may/170may/lista3.php?c=476&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="España" , AXN WHITE (ES)
-https://clubtv.link/17may/170may/lista3.php?c=714&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Deportes" , AyM Sports
-https://clubtv.link/17may/170may/lista3.php?c=148&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="Cine y Series" , Az Cinema
-https://clubtv.link/17may/170may/lista3.php?c=186&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" group-title="Entretenimiento" , Az Clic
-https://clubtv.link/17may/170may/lista3.php?c=165&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="Entretenimiento" , Az Corazón
-https://clubtv.link/17may/170may/lista3.php?c=166&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="HD" , Az Corazón
-https://clubtv.link/17may/170may/lista3.php?c=834&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="Mexico" , Azteca 1
-https://clubtv.link/17may/170may/lista3.php?c=4&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="HD" , Azteca 1
-https://clubtv.link/17may/170may/lista3.php?c=634&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="Mexico" , Azteca 7
-https://clubtv.link/17may/170may/lista3.php?c=5&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="HD" , Azteca 7
-https://clubtv.link/17may/170may/lista3.php?c=635&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Musica" , Bandamax
-https://clubtv.link/17may/170may/lista3.php?c=8&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="HD" , Bandamax
-https://clubtv.link/17may/170may/lista3.php?c=833&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7" , Barbie 24/7
-https://clubtv.link/17may/170may/lista3.php?c=788&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="HD" , Bein
-https://clubtv.link/17may/170may/lista3.php?c=763&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Deportes" , BeinSports
-https://clubtv.link/17may/170may/lista3.php?c=753&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="HD" , BeinSports
-https://clubtv.link/17may/170may/lista3.php?c=9&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Deportes" , BeinSports Ñ
-https://clubtv.link/17may/170may/lista3.php?c=761&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="HD" , BeinSports Ñ
-https://clubtv.link/17may/170may/lista3.php?c=376&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" group-title="24/7" , Bleach 24/7
-https://clubtv.link/17may/170may/lista3.php?c=883&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7" , Bob Esponja 24/7
-https://clubtv.link/17may/170may/lista3.php?c=518&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="Bolivia" , Bolivision
-https://clubtv.link/17may/170may/lista3.php?c=783&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="Entretenimiento" , Breaking Bad 24/7
-https://clubtv.link/17may/170may/lista3.php?c=846&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7" , Brickleberry 24/7
-https://clubtv.link/17may/170may/lista3.php?c=789&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7" , Caballeros del Zodiaco 24/7
-https://clubtv.link/17may/170may/lista3.php?c=427&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal2televicentro.png" group-title="Nicaragua" , Canal 2 Televicentro
-https://clubtv.link/17may/170may/lista3.php?c=211&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Mexico" , Canal 5
-https://clubtv.link/17may/170may/lista3.php?c=14&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Honduras" , Canal 5 Honduras
-https://clubtv.link/17may/170may/lista3.php?c=773&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico" , Canal de las Estrellas
-https://clubtv.link/17may/170may/lista3.php?c=411&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico" , Canal de las Estrellas Sur
-https://clubtv.link/17may/170may/lista3.php?c=736&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="HD" , Canal de las Estrellas
-https://clubtv.link/17may/170may/lista3.php?c=636&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="Ecuador" , Canal Del Futbol
-https://clubtv.link/17may/170may/lista3.php?c=892&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png" group-title="Mexico" , Canal Once
-https://clubtv.link/17may/170may/lista3.php?c=15&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="España" , Canal+ Accion
-https://clubtv.link/17may/170may/lista3.php?c=364&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes" , Canal+ Toros
-https://clubtv.link/17may/170may/lista3.php?c=369&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento" , Candy Candy 24/7
-https://clubtv.link/17may/170may/lista3.php?c=808&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7" , Cantinflas 24/7
-https://clubtv.link/17may/170may/lista3.php?c=428&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png" group-title="Musica" , Capital TV
-https://clubtv.link/17may/170may/lista3.php?c=205&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Colombia" , Caracol
-https://clubtv.link/17may/170may/lista3.php?c=391&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Entretenimiento" , Caracol Internacional
-https://clubtv.link/17may/170may/lista3.php?c=290&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="HD" , Cartoon Network
-https://clubtv.link/17may/170may/lista3.php?c=637&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="HD" , Cartoonito (Boomerang)
-https://clubtv.link/17may/170may/lista3.php?c=824&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7" , CatDog 24/7
-https://clubtv.link/17may/170may/lista3.php?c=785&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes" , CDF Premium
-https://clubtv.link/17may/170may/lista3.php?c=318&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png" group-title="HD" , CDF Premium
-https://clubtv.link/17may/170may/lista3.php?c=725&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="Deportes" , CDN Sportsmax
-https://clubtv.link/17may/170may/lista3.php?c=206&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png" group-title="Deportes" , CDO
-https://clubtv.link/17may/170may/lista3.php?c=513&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="Deportes" , CDO Premium
-https://clubtv.link/17may/170may/lista3.php?c=401&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7" , Chapulin Colorado 24/7
-https://clubtv.link/17may/170may/lista3.php?c=418&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7" , Chespirito 24/7
-https://clubtv.link/17may/170may/lista3.php?c=417&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" group-title="Colombia" , CHV Chilevision
-https://clubtv.link/17may/170may/lista3.php?c=198&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" group-title="Cine y Series" , Cine 2020
-https://clubtv.link/17may/170may/lista3.php?c=857&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="Cine y Series" , Cine Accion
-https://clubtv.link/17may/170may/lista3.php?c=699&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_hd/img.jpg" group-title="HD" , Cine Accion
-https://clubtv.link/17may/170may/lista3.php?c=706&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" group-title="Cine y Series" , Cine Accion Sagas
-https://clubtv.link/17may/170may/lista3.php?c=700&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas_hd/img.jpg" group-title="HD" , Cine Accion Sagas
-https://clubtv.link/17may/170may/lista3.php?c=707&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" group-title="Cine y Series" , Cine Comedia 1
-https://clubtv.link/17may/170may/lista3.php?c=695&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" group-title="Cine y Series" , Cine Comedia 2
-https://clubtv.link/17may/170may/lista3.php?c=696&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" group-title="Cine y Series" , Cine Ficcion/Fantasia 1
-https://clubtv.link/17may/170may/lista3.php?c=709&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" group-title="Cine y Series" , Cine Ficcion/Fantasia 2
-https://clubtv.link/17may/170may/lista3.php?c=710&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_hd/img.jpg" group-title="HD" , Cine Ficcion/Fantasia
-https://clubtv.link/17may/170may/lista3.php?c=712&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" group-title="Cine y Series" , Cine Ficcion/Fantasia Sagas
-https://clubtv.link/17may/170may/lista3.php?c=711&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="Cine y Series" , Cine Infantil
-https://clubtv.link/17may/170may/lista3.php?c=687&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_hd/img.jpg" group-title="HD" , Cine Infantil
-https://clubtv.link/17may/170may/lista3.php?c=702&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="Cine y Series" , Cine Infantil Sagas
-https://clubtv.link/17may/170may/lista3.php?c=694&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/infantil_sagas_hd/img.jpg" group-title="HD" , Cine Infantil Sagas
-https://clubtv.link/17may/170may/lista3.php?c=703&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Cine y Series" , Cine Latino
-https://clubtv.link/17may/170may/lista3.php?c=295&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" group-title="Cine y Series" , Cine Marvel
-https://clubtv.link/17may/170may/lista3.php?c=697&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel_hd/img.jpg" group-title="HD" , Cine Marvel
-https://clubtv.link/17may/170may/lista3.php?c=701&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="Cine y Series" , Cine Romance
-https://clubtv.link/17may/170may/lista3.php?c=689&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance_hd/img.jpg" group-title="HD" , Cine Romance
-https://clubtv.link/17may/170may/lista3.php?c=705&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="Cine y Series" , Cine Terror
-https://clubtv.link/17may/170may/lista3.php?c=693&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror_hd/img.jpg" group-title="HD" , Cine Terror
-https://clubtv.link/17may/170may/lista3.php?c=704&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="Cine y Series" , Cine Zombis
-https://clubtv.link/17may/170may/lista3.php?c=688&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Cine y Series" , Cinecanal
-https://clubtv.link/17may/170may/lista3.php?c=18&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Cine y Series" , Cinecanal Sur
-https://clubtv.link/17may/170may/lista3.php?c=738&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="HD" , Cinecanal
-https://clubtv.link/17may/170may/lista3.php?c=479&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Cine y Series" , Cinemax
-https://clubtv.link/17may/170may/lista3.php?c=20&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Cine y Series" , Cinemax Sur
-https://clubtv.link/17may/170may/lista3.php?c=739&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="HD" , Cinemax
-https://clubtv.link/17may/170may/lista3.php?c=638&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="Deportes" , Claro Sports
-https://clubtv.link/17may/170may/lista3.php?c=328&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" group-title="Noticias" , CNN en Español
-https://clubtv.link/17may/170may/lista3.php?c=136&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento" , Comedy Central
-https://clubtv.link/17may/170may/lista3.php?c=135&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento" , Comedy Central Sur
-https://clubtv.link/17may/170may/lista3.php?c=740&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="España" , Comedy Central (ES)
-https://clubtv.link/17may/170may/lista3.php?c=719&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="HD" , Comedy Central
-https://clubtv.link/17may/170may/lista3.php?c=480&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7" , Coraje el Perro Cobarde 24/7
-https://clubtv.link/17may/170may/lista3.php?c=519&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" group-title="España" , Crime Investigation (ES)
-https://clubtv.link/17may/170may/lista3.php?c=720&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Chile" , CTNI
-https://clubtv.link/17may/170may/lista3.php?c=160&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Cine y Series" , De Película
-https://clubtv.link/17may/170may/lista3.php?c=21&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="HD" , De Pelicula
-https://clubtv.link/17may/170may/lista3.php?c=481&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="Deportes" , DeporTV
-https://clubtv.link/17may/170may/lista3.php?c=139&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Cine y Series" , DHE
-https://clubtv.link/17may/170may/lista3.php?c=844&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7" , Dinosaurios 24/7
-https://clubtv.link/17may/170may/lista3.php?c=670&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes" , DirectTV Sports
-https://clubtv.link/17may/170may/lista3.php?c=259&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Deportes" , DirectTV Sports 2
-https://clubtv.link/17may/170may/lista3.php?c=667&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="HD" , DirectTV Sports Peru
-https://clubtv.link/17may/170may/lista3.php?c=879&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="HD" , Discovery Channel
-https://clubtv.link/17may/170may/lista3.php?c=639&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="HD" , Discovery H&H
-https://clubtv.link/17may/170may/lista3.php?c=640&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="HD" , Discovery Kids
-https://clubtv.link/17may/170may/lista3.php?c=641&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="HD" , Discovery Turbo
-https://clubtv.link/17may/170may/lista3.php?c=727&f=.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="HD" , Disney Junior
-https://clubtv.link/17may/170may/lista3.php?c=826&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="HD" , Disney XD
-https://clubtv.link/17may/170may/lista3.php?c=827&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="Entretenimiento" , Distrito Comedia
-https://clubtv.link/17may/170may/lista3.php?c=32&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png" group-title="Musica" , Djing Ibiza
-https://clubtv.link/17may/170may/lista3.php?c=277&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7" , Doraemon 24/7
-https://clubtv.link/17may/170may/lista3.php?c=521&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7" , Dragon Ball 24/7
-https://clubtv.link/17may/170may/lista3.php?c=425&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7" , Dragon Ball GT 24/7
-https://clubtv.link/17may/170may/lista3.php?c=520&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7" , Dragon Ball Super 24/7
-https://clubtv.link/17may/170may/lista3.php?c=424&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7" , Dragon Ball Z 24/7
-https://clubtv.link/17may/170may/lista3.php?c=329&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="Entretenimiento" , E!
-https://clubtv.link/17may/170may/lista3.php?c=33&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="HD" , E!
-https://clubtv.link/17may/170may/lista3.php?c=483&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador" , Ecuavisa
-https://clubtv.link/17may/170may/lista3.php?c=319&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/efektotv.png" group-title="Noticias" , Efekto TV
-https://clubtv.link/17may/170may/lista3.php?c=275&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="Argentina" , El 13 Argentina
-https://clubtv.link/17may/170may/lista3.php?c=239&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7" , El Chavo Animado 24/7
-https://clubtv.link/17may/170may/lista3.php?c=790&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7" , El Chavo del 8 24/7
-https://clubtv.link/17may/170may/lista3.php?c=400&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7" , El Coyote y el Correcaminos 24/7
-https://clubtv.link/17may/170may/lista3.php?c=429&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="Entretenimiento" , El Gallo Claudio 24/7
-https://clubtv.link/17may/170may/lista3.php?c=845&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="Entretenimiento" , El Gourmet
-https://clubtv.link/17may/170may/lista3.php?c=157&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7" , El Increible Mundo de Gumball 24/7
-https://clubtv.link/17may/170may/lista3.php?c=791&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="Argentina" , El Nueve
-https://clubtv.link/17may/170may/lista3.php?c=772&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7" , El Pajaro Loco 24/7
-https://clubtv.link/17may/170may/lista3.php?c=525&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7" , El Principel del Rap 24/7
-https://clubtv.link/17may/170may/lista3.php?c=430&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="Entretenimiento" , El Señor de los Cielos 24/7
-https://clubtv.link/17may/170may/lista3.php?c=820&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="Chile" , El Trece
-https://clubtv.link/17may/170may/lista3.php?c=765&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina" , El Trece
-https://clubtv.link/17may/170may/lista3.php?c=767&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion" , Enlace Juvenil
-https://clubtv.link/17may/170may/lista3.php?c=162&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion" , Enlace TV
-https://clubtv.link/17may/170may/lista3.php?c=161&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" , ESPN
-https://clubtv.link/17may/170may/lista3.php?c=34&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes" , ESPN 2
-https://clubtv.link/17may/170may/lista3.php?c=35&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="HD" , ESPN 2
-https://clubtv.link/17may/170may/lista3.php?c=484&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes" , ESPN 2 MX
-https://clubtv.link/17may/170may/lista3.php?c=531&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="HD" , ESPN 3
-https://clubtv.link/17may/170may/lista3.php?c=485&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" , ESPN Chile
-https://clubtv.link/17may/170may/lista3.php?c=842&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="HD" , ESPN
-https://clubtv.link/17may/170may/lista3.php?c=486&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" , ESPN MX
-https://clubtv.link/17may/170may/lista3.php?c=530&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes" , ESPN Plus
-https://clubtv.link/17may/170may/lista3.php?c=37&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="HD" , ESPN Plus
-https://clubtv.link/17may/170may/lista3.php?c=487&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Entretenimiento" , Estrella TV
-https://clubtv.link/17may/170may/lista3.php?c=177&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="Deportes" , Eurosport
-https://clubtv.link/17may/170may/lista3.php?c=39&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ewtn.png" group-title="Religion" , EWTN
-https://clubtv.link/17may/170may/lista3.php?c=38&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="HD" , Film & Arts
-https://clubtv.link/17may/170may/lista3.php?c=149&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="HD" , Film & Arts (EN)
-https://clubtv.link/17may/170may/lista3.php?c=729&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine y Series" , FM Hot TV
-https://clubtv.link/17may/170may/lista3.php?c=731&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes" , Formula 1 TV (F1)
-https://clubtv.link/17may/170may/lista3.php?c=192&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="Entretenimiento" , Fox Sur
-https://clubtv.link/17may/170may/lista3.php?c=750&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento" , Fox Life Sur
-https://clubtv.link/17may/170may/lista3.php?c=746&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" , Fox Sports
-https://clubtv.link/17may/170may/lista3.php?c=52&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" , Fox Sports 2
-https://clubtv.link/17may/170may/lista3.php?c=53&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD" , Fox Sports 2 Argentina
-https://clubtv.link/17may/170may/lista3.php?c=770&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD" , Fox Sports 2
-https://clubtv.link/17may/170may/lista3.php?c=494&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" , Fox Sports 2 MX
-https://clubtv.link/17may/170may/lista3.php?c=528&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes" , Fox Sports 3
-https://clubtv.link/17may/170may/lista3.php?c=54&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="HD" , Fox Sports 3
-https://clubtv.link/17may/170may/lista3.php?c=839&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD" , Fox Sports Argentina
-https://clubtv.link/17may/170may/lista3.php?c=769&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD" , Fox Sports
-https://clubtv.link/17may/170may/lista3.php?c=493&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" , Fox Sports MX
-https://clubtv.link/17may/170may/lista3.php?c=527&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" , Fox Sports MX Sur
-https://clubtv.link/17may/170may/lista3.php?c=748&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes" , Fox Sports Premium
-https://clubtv.link/17may/170may/lista3.php?c=512&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="HD" , Fox Sports Premium
-https://clubtv.link/17may/170may/lista3.php?c=658&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" , Fox Sports Sur
-https://clubtv.link/17may/170may/lista3.php?c=402&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" , Fox Sports Sur 2
-https://clubtv.link/17may/170may/lista3.php?c=410&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes" , Fox Sports Sur 3
-https://clubtv.link/17may/170may/lista3.php?c=511&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7" , Futurama 24/7
-https://clubtv.link/17may/170may/lista3.php?c=793&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" , FX
-https://clubtv.link/17may/170may/lista3.php?c=42&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" , FX Sur
-https://clubtv.link/17may/170may/lista3.php?c=749&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="HD" , FX
-https://clubtv.link/17may/170may/lista3.php?c=495&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Cine y Series" , FXM
-https://clubtv.link/17may/170may/lista3.php?c=43&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="HD" , FXM
-https://clubtv.link/17may/170may/lista3.php?c=488&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Mexico" , Gala TV
-https://clubtv.link/17may/170may/lista3.php?c=56&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="HD" , Gala TV
-https://clubtv.link/17may/170may/lista3.php?c=651&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="Ecuador" , Gamavision
-https://clubtv.link/17may/170may/lista3.php?c=891&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7" , Game of Thrones 24/7
-https://clubtv.link/17may/170may/lista3.php?c=515&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento" , Garfield 24/7
-https://clubtv.link/17may/170may/lista3.php?c=812&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Entretenimiento" , Glitz
-https://clubtv.link/17may/170may/lista3.php?c=158&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes" , Gol Peru
-https://clubtv.link/17may/170may/lista3.php?c=686&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes" , Gol TV
-https://clubtv.link/17may/170may/lista3.php?c=287&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="HD" , Gol TV
-https://clubtv.link/17may/170may/lista3.php?c=514&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Cine y Series" , Golden
-https://clubtv.link/17may/170may/lista3.php?c=57&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Cine y Series" , Golden Edge
-https://clubtv.link/17may/170may/lista3.php?c=58&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="HD" , Golden
-https://clubtv.link/17may/170may/lista3.php?c=496&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Cine y Series" , HBO
-https://clubtv.link/17may/170may/lista3.php?c=62&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Cine y Series" , HBO (EN)
-https://clubtv.link/17may/170may/lista3.php?c=723&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Cine y Series" , HBO 2
-https://clubtv.link/17may/170may/lista3.php?c=300&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Cine y Series" , HBO 2 (EN)
-https://clubtv.link/17may/170may/lista3.php?c=724&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="HD" , HBO 2
-https://clubtv.link/17may/170may/lista3.php?c=732&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="HD" , HBO 2 (EN)
-https://clubtv.link/17may/170may/lista3.php?c=733&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Cine y Series" , HBO Family
-https://clubtv.link/17may/170may/lista3.php?c=63&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="HD" , HBO
-https://clubtv.link/17may/170may/lista3.php?c=654&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Cine y Series" , HBO Plus
-https://clubtv.link/17may/170may/lista3.php?c=64&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Cine y Series" , HBO Plus (EN)
-https://clubtv.link/17may/170may/lista3.php?c=722&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="HD" , HBO Plus
-https://clubtv.link/17may/170may/lista3.php?c=655&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="HD" , HBO Plus Oeste
-https://clubtv.link/17may/170may/lista3.php?c=728&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Cine y Series" , HBO Xtreme
-https://clubtv.link/17may/170may/lista3.php?c=814&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Cine y Series" , HBO Xtreme
-https://clubtv.link/17may/170may/lista3.php?c=841&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hchhonduras.png" group-title="Honduras" , HCH
-https://clubtv.link/17may/170may/lista3.php?c=779&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7" , Hey Arnold 24/7
-https://clubtv.link/17may/170may/lista3.php?c=522&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="España" , Historia (ES)
-https://clubtv.link/17may/170may/lista3.php?c=718&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="HD" , History Channel
-https://clubtv.link/17may/170may/lista3.php?c=642&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="Musica" , Hit TV
-https://clubtv.link/17may/170may/lista3.php?c=201&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento" , Hola TV
-https://clubtv.link/17may/170may/lista3.php?c=189&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica" , HTV
-https://clubtv.link/17may/170may/lista3.php?c=66&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Cine y Series" , I.Sat
-https://clubtv.link/17may/170may/lista3.php?c=153&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Mexico" , Imagen Television
-https://clubtv.link/17may/170may/lista3.php?c=341&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="HD" , Imagen Televisión
-https://clubtv.link/17may/170may/lista3.php?c=643&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="HD" , Investigation Discovery
-https://clubtv.link/17may/170may/lista3.php?c=825&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7" , Johnny Bravo 24/7
-https://clubtv.link/17may/170may/lista3.php?c=786&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica" , Juce TV
-https://clubtv.link/17may/170may/lista3.php?c=263&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7" , La Casa de Papel 24/7
-https://clubtv.link/17may/170may/lista3.php?c=403&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento" , La Familia PeLuche 24/7
-https://clubtv.link/17may/170may/lista3.php?c=811&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7" , La Hora Pico 24/7
-https://clubtv.link/17may/170may/lista3.php?c=887&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7" , La Pantera Rosa 24/7
-https://clubtv.link/17may/170may/lista3.php?c=671&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="24/7" , La Pequeña Lulu 24/7
-https://clubtv.link/17may/170may/lista3.php?c=792&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7" , La Rosa de Guadalupe 24/7
-https://clubtv.link/17may/170may/lista3.php?c=886&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasfa.png" group-title="España" , La Sfa
-https://clubtv.link/17may/170may/lista3.php?c=326&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="Entretenimiento" , La Vaca y ElPollito 24/7
-https://clubtv.link/17may/170may/lista3.php?c=809&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Uruguay" , Latina TV
-https://clubtv.link/17may/170may/lista3.php?c=782&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7" , Le Temes a la Oscuridad 24/7
-https://clubtv.link/17may/170may/lista3.php?c=888&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento" , Lifetime
-https://clubtv.link/17may/170may/lista3.php?c=152&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes" , Liga de Campeones
-https://clubtv.link/17may/170may/lista3.php?c=890&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes" , Liga de Campeones 2
-https://clubtv.link/17may/170may/lista3.php?c=893&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7" , Looney Tunes 24/7
-https://clubtv.link/17may/170may/lista3.php?c=524&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="24/7" , Los 3 Chiflados 24/7
-https://clubtv.link/17may/170may/lista3.php?c=423&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="Entretenimiento" , Los Años Maravillosos 24/7
-https://clubtv.link/17may/170may/lista3.php?c=810&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="Entretenimiento" , Los Padrinos Magicos 24/7
-https://clubtv.link/17may/170may/lista3.php?c=813&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7" , Los Picapiedra 24/7
-https://clubtv.link/17may/170may/lista3.php?c=669&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="24/7" , Los Pinguinos de Madagascar 24/7
-https://clubtv.link/17may/170may/lista3.php?c=794&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="24/7" , Los Pitufos 24/7
-https://clubtv.link/17may/170may/lista3.php?c=795&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="24/7" , Los Reyes de la Colina 24/7
-https://clubtv.link/17may/170may/lista3.php?c=796&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7" , Los Simpson 24/7
-https://clubtv.link/17may/170may/lista3.php?c=357&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="24/7" , Los Supersonicos 24/7
-https://clubtv.link/17may/170may/lista3.php?c=797&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="Entretenimiento" , Los Vengadores Unidos 24/7
-https://clubtv.link/17may/170may/lista3.php?c=818&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica" , m2o TV
-https://clubtv.link/17may/170may/lista3.php?c=203&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7" , Malcolm 24/7
-https://clubtv.link/17may/170may/lista3.php?c=798&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" group-title="Entretenimiento" , Más chic
-https://clubtv.link/17may/170may/lista3.php?c=180&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="HD" , Max Prime
-https://clubtv.link/17may/170may/lista3.php?c=730&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="Entretenimiento" , Max Steel 24/7
-https://clubtv.link/17may/170may/lista3.php?c=880&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="HD" , Max Up
-https://clubtv.link/17may/170may/lista3.php?c=659&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Chile" , Mega
-https://clubtv.link/17may/170may/lista3.php?c=766&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Puerto Rico" , Mega
-https://clubtv.link/17may/170may/lista3.php?c=784&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="España" , Mega (ES)
-https://clubtv.link/17may/170may/lista3.php?c=352&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Cine y Series" , MegaCine
-https://clubtv.link/17may/170may/lista3.php?c=517&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mimusicahd.png" group-title="Musica" , Mi Musica
-https://clubtv.link/17may/170may/lista3.php?c=172&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento" , Miami TV
-https://clubtv.link/17may/170may/lista3.php?c=251&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/milenio.png" group-title="Noticias" , Milenio
-https://clubtv.link/17may/170may/lista3.php?c=140&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png" group-title="Deportes" , MLB Network
-https://clubtv.link/17may/170may/lista3.php?c=293&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Cine y Series" , Movie Max
-https://clubtv.link/17may/170may/lista3.php?c=678&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="España" , Movistar Comedia
-https://clubtv.link/17may/170may/lista3.php?c=370&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes" , Movistar Deportes
-https://clubtv.link/17may/170may/lista3.php?c=366&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="Deportes" , Movistar Deportes 2
-https://clubtv.link/17may/170may/lista3.php?c=367&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_xtra.png" group-title="España" , Movistar Xtra
-https://clubtv.link/17may/170may/lista3.php?c=372&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7" , Mr. Bean 24/7
-https://clubtv.link/17may/170may/lista3.php?c=431&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento" , MTV
-https://clubtv.link/17may/170may/lista3.php?c=69&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="España" , MTV (ES)
-https://clubtv.link/17may/170may/lista3.php?c=803&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="HD" , MTV
-https://clubtv.link/17may/170may/lista3.php?c=828&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="Musica" , MTV Live
-https://clubtv.link/17may/170may/lista3.php?c=70&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento" , MTV Sur
-https://clubtv.link/17may/170may/lista3.php?c=823&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="Mexico" , Multimedios
-https://clubtv.link/17may/170may/lista3.php?c=155&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="Cine y Series" , MultiPremier
-https://clubtv.link/17may/170may/lista3.php?c=294&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica" , Music Now
-https://clubtv.link/17may/170may/lista3.php?c=690&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png" group-title="Musica" , MusicTop
-https://clubtv.link/17may/170may/lista3.php?c=691&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mvs.png" group-title="Noticias" , MVS Noticias
-https://clubtv.link/17may/170may/lista3.php?c=448&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7" , Naruto 24/7
-https://clubtv.link/17may/170may/lista3.php?c=523&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="HD" , Nat Geo
-https://clubtv.link/17may/170may/lista3.php?c=644&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TNT 
+http://clubtv.link/17may/170may/geomex.php?c=126&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TNT SERIES
+http://clubtv.link/17may/170may/geomex.php?c=71&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",A3CINE 
+http://clubtv.link/17may/170may/geomex.php?c=3112&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TBS SD  
+http://clubtv.link/17may/170may/geomex.php?c=81&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA + 
+http://clubtv.link/17may/170may/geomex.php?c=121&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN +
+http://clubtv.link/17may/170may/geomex.php?c=122&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN
+http://clubtv.link/17may/170may/geomex.php?c=123&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
+http://clubtv.link/17may/170may/geomex.php?c=124&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",sun 
+http://clubtv.link/17may/170may/geomex.php?c=126&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TCM
+http://clubtv.link/17may/170may/geomex.php?c=128&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SPACE
+http://clubtv.link/17may/170may/geomex.php?c=129&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AMC 
+http://clubtv.link/17may/170may/geomex.php?c=131&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",STUDIO UNIVERSAL
+http://clubtv.link/17may/170may/geomex.php?c=132&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",I SAT  
+http://clubtv.link/17may/170may/geomex.php?c=135&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",EUROPA CHANNEL 
+http://clubtv.link/17may/170may/geomex.php?c=136&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FILMS & ARTS
+http://clubtv.link/17may/170may/geomex.php?c=137&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FXM
+http://clubtv.link/17may/170may/geomex.php?c=138&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FXM SD 
+http://clubtv.link/17may/170may/geomex.php?c=332&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FOX SERIES
+http://clubtv.link/17may/170may/geomex.php?c=139&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",MORBIDO
+http://clubtv.link/17may/170may/geomex.php?c=140&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FOX MOVIES 
+http://clubtv.link/17may/170may/geomex.php?c=146&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",CINECANAL
+http://clubtv.link/17may/170may/geomex.php?c=149&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",CINEMAX 
+http://clubtv.link/17may/170may/geomex.php?c=158&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AMC  
+http://clubtv.link/17may/170may/geomex.php?c=328&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA SD
+http://clubtv.link/17may/170may/geomex.php?c=335&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FOX ACTION
+http://clubtv.link/17may/170may/geomex.php?c=336&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT CHANNEL 
+http://clubtv.link/17may/170may/geomex.php?c=1726&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FOX CINEMA SD
+http://clubtv.link/17may/170may/geomex.php?c=1729&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FOX CLASSICS SD
+http://clubtv.link/17may/170may/geomex.php?c=1732&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
+http://clubtv.link/17may/170may/geomex.php?c=1787&f=.m3u8
 
 
 
+#EXTINF:-1 group-title="CINE Y SERIES", HBO
+http://clubtv.link/17may/170may/lista1.php?c=a02v
+#EXTINF:-1 group-title="CINE Y SERIES", HBO 2
+http://clubtv.link/17may/170may/lista1.php?c=a00z
+#EXTINF:-1 group-title="CINE Y SERIES", HBO Family
+http://clubtv.link/17may/170may/lista1.php?c=a012
+#EXTINF:-1 group-title="CINE Y SERIES", HBO Plus
+http://clubtv.link/17may/170may/lista1.php?c=a010
+#EXTINF:-1 group-title="CINE Y SERIES", HBO XTREME SD
+http://clubtv.link/17may/170may/lista1.php?c=a011
 
 
+#EXTINF:-1 group-title="MUSICA",MTV LIVE
+http://clubtv.link/17may/170may/geomex.php?c=211&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV
+http://clubtv.link/17may/170may/geomex.php?c=212&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV HITS SD
+http://clubtv.link/17may/170may/geomex.php?c=213&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",VH1 CLASSIC SD
+http://clubtv.link/17may/170may/geomex.php?c=214&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",VH1 SD 
+http://clubtv.link/17may/170may/geomex.php?c=217&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",TELEHIT URBANO SD
+http://clubtv.link/17may/170may/geomex.php?c=218&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",TELEHIT +
+http://clubtv.link/17may/170may/geomex.php?c=220&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",BANDAMAX SD
+http://clubtv.link/17may/170may/geomex.php?c=221&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",AZ CLIC
+http://clubtv.link/17may/170may/geomex.php?c=223&f=.m3u8
+#EXTINF:-1 group-title="MUSICA",VH1 HD
+http://clubtv.link/17may/170may/geomex.php?c=334&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="HD" , Nat Geo Wild
-https://clubtv.link/17may/170may/lista3.php?c=497&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" group-title="Deportes" , NBA
-https://clubtv.link/17may/170may/lista3.php?c=838&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/neox.png" group-title="España" , Neox (ES)
-https://clubtv.link/17may/170may/lista3.php?c=353&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Deportes" , NFL Network
-https://clubtv.link/17may/170may/lista3.php?c=204&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",FOROTV HD
+http://clubtv.link/17may/170may/geomex.php?c=4&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",FOROTV SD
+http://clubtv.link/17may/170may/geomex.php?c=19&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",ADN40
+http://clubtv.link/17may/170may/geomex.php?c=40&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",ADN 40 HD
+http://clubtv.link/17may/170may/geomex.php?c=184&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN
+http://clubtv.link/17may/170may/geomex.php?c=185&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN SD
+http://clubtv.link/17may/170may/geomex.php?c=186&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN Ñ SD
+http://clubtv.link/17may/170may/geomex.php?c=187&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",WOBI 
+http://clubtv.link/17may/170may/geomex.php?c=102&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",FOXN EWS
+http://clubtv.link/17may/170may/geomex.php?c=188&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",BLOOMBERG 
+http://clubtv.link/17may/170may/geomex.php?c=190&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",BBC SD
+http://clubtv.link/17may/170may/geomex.php?c=191&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",AL JAAZERA 
+http://clubtv.link/17may/170may/geomex.php?c=192&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",NTN 24
+http://clubtv.link/17may/170may/geomex.php?c=194&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",JUSTICIA TV 
+http://clubtv.link/17may/170may/geomex.php?c=196&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",HLN
+http://clubtv.link/17may/170may/geomex.php?c=197&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DW 
+http://clubtv.link/17may/170may/geomex.php?c=203&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",RT
+http://clubtv.link/17may/170may/geomex.php?c=999&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",MILENIO HD
+http://clubtv.link/17may/170may/geomex.php?c=1250&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",MILENIO SD 
+http://clubtv.link/17may/170may/geomex.php?c=1252&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",EXCELSIOR TV
+http://clubtv.link/17may/170may/geomex.php?c=1449&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",EL FINANCIERO HD 
+http://clubtv.link/17may/170may/geomex.php?c=1649&f=.m3u8
+ #EXTINF:-1 group-title="NOTICIAS",RT ESPAÑOL
+http://clubtv.link/17may/170may/geomex.php?c=2091&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",FRANCE 24
+http://clubtv.link/17may/170may/geomex.php?c=2402&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png" group-title="HD" , Nick 2
-https://clubtv.link/17may/170may/lista3.php?c=646&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="HD" , Nick
-https://clubtv.link/17may/170may/lista3.php?c=645&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="HD" , Nick JR
-https://clubtv.link/17may/170may/lista3.php?c=829&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN + 
+http://clubtv.link/17may/170may/geomex.php?c=167&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 
+http://clubtv.link/17may/170may/geomex.php?c=168&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
+http://clubtv.link/17may/170may/geomex.php?c=169&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS
+http://clubtv.link/17may/170may/geomex.php?c=170&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
+http://clubtv.link/17may/170may/geomex.php?c=172&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",TUDN
+http://clubtv.link/17may/170may/geomex.php?c=174&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 
+http://clubtv.link/17may/170may/geomex.php?c=178&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",GOLF
+http://clubtv.link/17may/170may/geomex.php?c=179&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",AYM SPORTS
+http://clubtv.link/17may/170may/geomex.php?c=180&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 
+http://clubtv.link/17may/170may/geomex.php?c=345&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",TUDN HD (2)
+http://clubtv.link/17may/170may/geomex.php?c=1049&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",ADRENALINA SPORTS HD
+http://clubtv.link/17may/170may/geomex.php?c=1799&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",LAS
+http://clubtv.link/17may/170may/geomex.php?c=2089&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",HAVOC
+http://clubtv.link/17may/170may/geomex.php?c=2148&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",TVC DEPORTES
+http://clubtv.link/17may/170may/geomex.php?c=2157&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD  
+http://clubtv.link/17may/170may/geomex.php?c=2564&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",FUEL TV HD 
+http://clubtv.link/17may/170may/geomex.php?c=2587&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png" group-title="España" , Nova (ES)
-https://clubtv.link/17may/170may/lista3.php?c=717&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7" , One Punch Man 24/7
-https://clubtv.link/17may/170may/lista3.php?c=661&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina" , ORBE 21
-https://clubtv.link/17may/170may/lista3.php?c=242&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7" , Padre de Familia 24/7
-https://clubtv.link/17may/170may/lista3.php?c=416&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Cine y Series" , Paramount
-https://clubtv.link/17may/170may/lista3.php?c=200&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="HD" , Paramount
-https://clubtv.link/17may/170may/lista3.php?c=647&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="HD" , Pasiones
-https://clubtv.link/17may/170may/lista3.php?c=755&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="Entretenimiento" , Patoaventuras 24/7
-https://clubtv.link/17may/170may/lista3.php?c=819&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="Entretenimiento" , Patrulla Canina 24/7
-https://clubtv.link/17may/170may/lista3.php?c=807&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7" , Peppa Pig 24/7
-https://clubtv.link/17may/170may/lista3.php?c=787&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png" group-title="Peru" , PERU: América TV
-https://clubtv.link/17may/170may/lista3.php?c=304&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" , PERU: Antares TV
-https://clubtv.link/17may/170may/lista3.php?c=451&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" , PERU: BHTV
-https://clubtv.link/17may/170may/lista3.php?c=399&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" , PERU: La Luz
-https://clubtv.link/17may/170may/lista3.php?c=338&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Peru" , PERU: Latina
-https://clubtv.link/17may/170may/lista3.php?c=317&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" , PERU: Plus TV
-https://clubtv.link/17may/170may/lista3.php?c=337&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" , PERU: RBC
-https://clubtv.link/17may/170may/lista3.php?c=220&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rpp_peru.png" group-title="Peru" , PERU: RPP
-https://clubtv.link/17may/170may/lista3.php?c=336&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" , PERU: TV Peru
-https://clubtv.link/17may/170may/lista3.php?c=306&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" , PERU: Willax TV
-https://clubtv.link/17may/170may/lista3.php?c=334&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7" , Pinky y Cerebro 24/7
-https://clubtv.link/17may/170may/lista3.php?c=721&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="24/7" , Pocoyo 24/7
-https://clubtv.link/17may/170may/lista3.php?c=799&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7" , Pokemon 24/7
-https://clubtv.link/17may/170may/lista3.php?c=420&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 1
-https://clubtv.link/17may/170may/lista3.php?c=847&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 10
-https://clubtv.link/17may/170may/lista3.php?c=856&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 11
-https://clubtv.link/17may/170may/lista3.php?c=858&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 12
-https://clubtv.link/17may/170may/lista3.php?c=859&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 13
-https://clubtv.link/17may/170may/lista3.php?c=860&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 14
-https://clubtv.link/17may/170may/lista3.php?c=862&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 15
-https://clubtv.link/17may/170may/lista3.php?c=863&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 16
-https://clubtv.link/17may/170may/lista3.php?c=864&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 17
-https://clubtv.link/17may/170may/lista3.php?c=865&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 18
-https://clubtv.link/17may/170may/lista3.php?c=866&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 19
-https://clubtv.link/17may/170may/lista3.php?c=861&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 2
-https://clubtv.link/17may/170may/lista3.php?c=848&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 20
-https://clubtv.link/17may/170may/lista3.php?c=867&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 21
-https://clubtv.link/17may/170may/lista3.php?c=868&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 22
-https://clubtv.link/17may/170may/lista3.php?c=869&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 23
-https://clubtv.link/17may/170may/lista3.php?c=870&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 24
-https://clubtv.link/17may/170may/lista3.php?c=871&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 25
-https://clubtv.link/17may/170may/lista3.php?c=873&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 26
-https://clubtv.link/17may/170may/lista3.php?c=874&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 27
-https://clubtv.link/17may/170may/lista3.php?c=876&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 28
-https://clubtv.link/17may/170may/lista3.php?c=875&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 29
-https://clubtv.link/17may/170may/lista3.php?c=872&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 3
-https://clubtv.link/17may/170may/lista3.php?c=849&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 30
-https://clubtv.link/17may/170may/lista3.php?c=877&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 4
-https://clubtv.link/17may/170may/lista3.php?c=850&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 5
-https://clubtv.link/17may/170may/lista3.php?c=851&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 6
-https://clubtv.link/17may/170may/lista3.php?c=852&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 7
-https://clubtv.link/17may/170may/lista3.php?c=853&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 8
-https://clubtv.link/17may/170may/lista3.php?c=854&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="PPV" , PPV 9
-https://clubtv.link/17may/170may/lista3.php?c=855&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="24/7" , Prison Break 24/7
-https://clubtv.link/17may/170may/lista3.php?c=884&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png" group-title="Deportes" , PX TV
-https://clubtv.link/17may/170may/lista3.php?c=193&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7" , Ranma 1/2 24/7
-https://clubtv.link/17may/170may/lista3.php?c=419&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Mexico" , RCG TV Coahuila
-https://clubtv.link/17may/170may/lista3.php?c=346&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="Colombia" , RCN
-https://clubtv.link/17may/170may/lista3.php?c=390&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcnnovelas.png" group-title="Colombia" , RCN Novelas
-https://clubtv.link/17may/170may/lista3.php?c=279&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Deportes" , Real Madrid TV
-https://clubtv.link/17may/170may/lista3.php?c=270&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="Musica" , Retro Music
-https://clubtv.link/17may/170may/lista3.php?c=692&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="Musica" , Ritmoson Latino
-https://clubtv.link/17may/170may/lista3.php?c=154&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rt.png" group-title="HD" , RT
-https://clubtv.link/17may/170may/lista3.php?c=142&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rtp.png" group-title="Bolivia" , RTP
-https://clubtv.link/17may/170may/lista3.php?c=781&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7" , Sakura Card Captor 24/7
-https://clubtv.link/17may/170may/lista3.php?c=672&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="24/7" , Samurai X 24/7
-https://clubtv.link/17may/170may/lista3.php?c=663&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7" , Scooby Doo 24/7
-https://clubtv.link/17may/170may/lista3.php?c=422&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/showtime.png" group-title="Cine y Series" , Showtime
-https://clubtv.link/17may/170may/lista3.php?c=679&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7" , Smallville 24/7
-https://clubtv.link/17may/170may/lista3.php?c=673&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="Cine y Series" , Sony
-https://clubtv.link/17may/170may/lista3.php?c=145&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="HD" , Sony
-https://clubtv.link/17may/170may/lista3.php?c=498&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7" , South Park 24/7
-https://clubtv.link/17may/170may/lista3.php?c=674&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Cine y Series" , Space
-https://clubtv.link/17may/170may/lista3.php?c=83&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Cine y Series" , Space Sur
-https://clubtv.link/17may/170may/lista3.php?c=751&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="HD" , Space
-https://clubtv.link/17may/170may/lista3.php?c=499&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7" , Spiderman 24/7
-https://clubtv.link/17may/170may/lista3.php?c=889&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="Cine y Series" , Star
-https://clubtv.link/17may/170may/lista3.php?c=45&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png" group-title="Cine y Series" , Star Action
-https://clubtv.link/17may/170may/lista3.php?c=46&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png" group-title="HD" , Star Action
-https://clubtv.link/17may/170may/lista3.php?c=490&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_cinema.png" group-title="Cine y Series" , Star Cinema
-https://clubtv.link/17may/170may/lista3.php?c=47&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_classics.png" group-title="Cine y Series" , Star Classics
-https://clubtv.link/17may/170may/lista3.php?c=48&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_comedy.png" group-title="Cine y Series" , Star Comedy
-https://clubtv.link/17may/170may/lista3.php?c=150&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="Cine y Series" , Star Fun
-https://clubtv.link/17may/170may/lista3.php?c=49&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="HD" , Star Fun
-https://clubtv.link/17may/170may/lista3.php?c=840&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="HD" , Star
-https://clubtv.link/17may/170may/lista3.php?c=489&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="Cine y Series" , Star Hits
-https://clubtv.link/17may/170may/lista3.php?c=51&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="Cine y Series" , Star Hits Sur
-https://clubtv.link/17may/170may/lista3.php?c=747&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="HD" , Star Hits
-https://clubtv.link/17may/170may/lista3.php?c=491&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento" , Star Life
-https://clubtv.link/17may/170may/lista3.php?c=50&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="HD" , Star Life
-https://clubtv.link/17may/170may/lista3.php?c=652&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" group-title="HD" , Star Series
-https://clubtv.link/17may/170may/lista3.php?c=492&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Cine y Series" , Starz Cinema
-https://clubtv.link/17may/170may/lista3.php?c=680&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_comedy.png" group-title="Cine y Series" , Starz Comedy
-https://clubtv.link/17may/170may/lista3.php?c=681&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Cine y Series" , Starz Encore Action
-https://clubtv.link/17may/170may/lista3.php?c=682&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreblack.png" group-title="Cine y Series" , Starz Encore Black
-https://clubtv.link/17may/170may/lista3.php?c=683&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Cine y Series" , Starz Encore Family
-https://clubtv.link/17may/170may/lista3.php?c=684&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_hd.png" group-title="HD" , Starz
-https://clubtv.link/17may/170may/lista3.php?c=685&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Cine y Series" , Studio Universal
-https://clubtv.link/17may/170may/lista3.php?c=84&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="HD" , Studio Universal
-https://clubtv.link/17may/170may/lista3.php?c=830&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7" , Super Campeones 24/7
-https://clubtv.link/17may/170may/lista3.php?c=432&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Cine y Series" , SyFy
-https://clubtv.link/17may/170may/lista3.php?c=151&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Cine y Series" , SyFy Sur
-https://clubtv.link/17may/170may/lista3.php?c=758&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="HD" , SyFy
-https://clubtv.link/17may/170may/lista3.php?c=648&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="Entretenimiento" , TBS Very Funny
-https://clubtv.link/17may/170may/lista3.php?c=171&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="HD" , TBS Very Funny
-https://clubtv.link/17may/170may/lista3.php?c=831&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento" , TC Ecuador
-https://clubtv.link/17may/170may/lista3.php?c=885&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Cine y Series" , TCM
-https://clubtv.link/17may/170may/lista3.php?c=85&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Uruguay" , Tele
-https://clubtv.link/17may/170may/lista3.php?c=778&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador" , TeleAmazonas
-https://clubtv.link/17may/170may/lista3.php?c=320&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina" , Telefe
-https://clubtv.link/17may/170may/lista3.php?c=771&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleformula.png" group-title="Entretenimiento" , TeleFórmula
-https://clubtv.link/17may/170may/lista3.php?c=182&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="Musica" , Telehit
-https://clubtv.link/17may/170may/lista3.php?c=91&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="HD" , Telehit
-https://clubtv.link/17may/170may/lista3.php?c=649&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemedellin.png" group-title="Colombia" , Telemedellin
-https://clubtv.link/17may/170may/lista3.php?c=197&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="Entretenimiento" , Telemundo
-https://clubtv.link/17may/170may/lista3.php?c=92&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="HD" , Telemundo
-https://clubtv.link/17may/170may/lista3.php?c=660&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" group-title="Ecuador" , Televicentro
-https://clubtv.link/17may/170may/lista3.php?c=776&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7" , The Big Bang Theory 24/7
-https://clubtv.link/17may/170may/lista3.php?c=676&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7" , The Walking Dead 24/7
-https://clubtv.link/17may/170may/lista3.php?c=800&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes" , TigoSports Bolivia
-https://clubtv.link/17may/170may/lista3.php?c=764&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes" , TigoSports Paraguay
-https://clubtv.link/17may/170may/lista3.php?c=843&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="Entretenimiento" , TLC
-https://clubtv.link/17may/170may/lista3.php?c=87&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="Entretenimiento" , Tlnovelas
-https://clubtv.link/17may/170may/lista3.php?c=94&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="HD" , Tlnovelas
-https://clubtv.link/17may/170may/lista3.php?c=832&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Cine y Series" , TNT
-https://clubtv.link/17may/170may/lista3.php?c=179&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Cine y Series" , TNT Sur
-https://clubtv.link/17may/170may/lista3.php?c=752&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="España" , TNT (ES)
-https://clubtv.link/17may/170may/lista3.php?c=716&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="HD" , TNT
-https://clubtv.link/17may/170may/lista3.php?c=500&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Cine y Series" , TNT Series
-https://clubtv.link/17may/170may/lista3.php?c=90&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Cine y Series" , TNT Series Sur
-https://clubtv.link/17may/170may/lista3.php?c=757&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="HD" , TNT Series
-https://clubtv.link/17may/170may/lista3.php?c=650&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes" , TNT Sports
-https://clubtv.link/17may/170may/lista3.php?c=509&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7" , Tom y Jerry 24/7
-https://clubtv.link/17may/170may/lista3.php?c=421&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trece_colombia.png" group-title="Colombia" , Trece
-https://clubtv.link/17may/170may/lista3.php?c=774&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7" , TrollHunters 24/7
-https://clubtv.link/17may/170may/lista3.php?c=662&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="Entretenimiento" , TruTV
-https://clubtv.link/17may/170may/lista3.php?c=96&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="HD" , TruTv
-https://clubtv.link/17may/170may/lista3.php?c=501&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicahd.png" group-title="Musica" , Tu Musica
-https://clubtv.link/17may/170may/lista3.php?c=516&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes" , TUDN 
-https://clubtv.link/17may/170may/lista3.php?c=698&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes" , TUDN (Pocos Datos)
-https://clubtv.link/17may/170may/lista3.php?c=822&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="HD" , TUDN
-https://clubtv.link/17may/170may/lista3.php?c=801&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes" , TUDN USA
-https://clubtv.link/17may/170may/lista3.php?c=86&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="HD" , TUDN USA
-https://clubtv.link/17may/170may/lista3.php?c=821&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcdeportes.png" group-title="Deportes" , TVC Deportes
-https://clubtv.link/17may/170may/lista3.php?c=837&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png" group-title="España" , TVE
-https://clubtv.link/17may/170may/lista3.php?c=195&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7" , Two And a Half Men 24/7
-https://clubtv.link/17may/170may/lista3.php?c=675&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Deportes" , Tyc Sports
-https://clubtv.link/17may/170may/lista3.php?c=274&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" group-title="Deportes" , UFC Network
-https://clubtv.link/17may/170may/lista3.php?c=97&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="Entretenimiento" , Unicable
-https://clubtv.link/17may/170may/lista3.php?c=98&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="HD" , Unicable
-https://clubtv.link/17may/170may/lista3.php?c=653&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="Cine y Series" , Universal
-https://clubtv.link/17may/170may/lista3.php?c=137&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="HD" , Universal
-https://clubtv.link/17may/170may/lista3.php?c=502&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" group-title="Entretenimiento" , Univision
-https://clubtv.link/17may/170may/lista3.php?c=99&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisiondeportes.png" group-title="Deportes" , Univisión Deportes
-https://clubtv.link/17may/170may/lista3.php?c=373&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Deportes" , Univisión TDN
-https://clubtv.link/17may/170may/lista3.php?c=100&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento" , Univision Tlnovelas
-https://clubtv.link/17may/170may/lista3.php?c=413&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Colombia" , Uno
-https://clubtv.link/17may/170may/lista3.php?c=775&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="Musica" , VH1
-https://clubtv.link/17may/170may/lista3.php?c=101&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="HD" , VH1
-https://clubtv.link/17may/170may/lista3.php?c=632&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png" group-title="Musica" , Video Rola
-https://clubtv.link/17may/170may/lista3.php?c=359&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica" , Videos: 1Music
-https://clubtv.link/17may/170may/lista3.php?c=433&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica" , Videos: Company Radio TV
-https://clubtv.link/17may/170may/lista3.php?c=435&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica" , Videos: Dream TV
-https://clubtv.link/17may/170may/lista3.php?c=439&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica" , Virgin TV
-https://clubtv.link/17may/170may/lista3.php?c=315&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png" group-title="Uruguay" , VTV Uruaguay
-https://clubtv.link/17may/170may/lista3.php?c=708&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv2_chile.png" group-title="Chile" , VTV2 Chile
-https://clubtv.link/17may/170may/lista3.php?c=321&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="Puerto Rico" , Wapa PR
-https://clubtv.link/17may/170may/lista3.php?c=327&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Cine y Series" , Warner Channel
-https://clubtv.link/17may/170may/lista3.php?c=102&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Cine y Series" , Warner Channel Sur
-https://clubtv.link/17may/170may/lista3.php?c=759&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="HD" , Warner Channel
-https://clubtv.link/17may/170may/lista3.php?c=503&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes" , Win Sports
-https://clubtv.link/17may/170may/lista3.php?c=292&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD" , Win Sports +
-https://clubtv.link/17may/170may/lista3.php?c=881&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD" , Win Sports +
-https://clubtv.link/17may/170may/lista3.php?c=802&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="HD" , Win Sports
-https://clubtv.link/17may/170may/lista3.php?c=754&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="Deportes" , WWE Network
-https://clubtv.link/17may/170may/lista3.php?c=276&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7" , Yu-Gi-Oh! 24/7
-https://clubtv.link/17may/170may/lista3.php?c=664&f=.m3u8
-
+#EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
+http://clubtv.link/17may/170may/geomex.php?c=3315&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7.3 (CLASES)
+http://clubtv.link/17may/170may/geomex.php?c=3316&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO HD
+http://clubtv.link/17may/170may/geomex.php?c=7&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ CLIC HD
+http://clubtv.link/17may/170may/geomex.php?c=11&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
+http://clubtv.link/17may/170may/geomex.php?c=17&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL 5
+http://clubtv.link/17may/170may/geomex.php?c=20&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7
+http://clubtv.link/17may/170may/geomex.php?c=21&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",NU9VE
+http://clubtv.link/17may/170may/geomex.php?c=24&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",ONCE
+http://clubtv.link/17may/170may/geomex.php?c=25&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO
+http://clubtv.link/17may/170may/geomex.php?c=27&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",TELEFORMULA SD
+http://clubtv.link/17may/170may/geomex.php?c=32&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MEXIQUENSE TV
+http://clubtv.link/17may/170may/geomex.php?c=44&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ CORAZON 
+http://clubtv.link/17may/170may/geomex.php?c=70&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ MUNDO
+http://clubtv.link/17may/170may/geomex.php?c=84&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD 
+http://clubtv.link/17may/170may/geomex.php?c=317&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD (2)
+http://clubtv.link/17may/170may/geomex.php?c=322&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV  
+http://clubtv.link/17may/170may/geomex.php?c=2298&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS MTY
+http://clubtv.link/17may/170may/geomex.php?c=2305&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",APREDNE TV
+http://clubtv.link/17may/170may/geomex.php?c=401&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+http://clubtv.link/17may/170may/geomex.php?c=1253&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",NU9VE HD
+http://clubtv.link/17may/170may/geomex.php?c=1783&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS HD
+http://clubtv.link/17may/170may/geomex.php?c=1784&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL 5 HD (2)
+http://clubtv.link/17may/170may/geomex.php?c=1785&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",ONCE HD 
+http://clubtv.link/17may/170may/geomex.php?c=1942&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MVS TV
+http://clubtv.link/17may/170may/geomex.php?c=2149&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",TVC
+http://clubtv.link/17may/170may/geomex.php?c=2156&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL 4 
+http://clubtv.link/17may/170may/geomex.php?c=2274&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL 8
+http://clubtv.link/17may/170may/geomex.php?c=2307&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",TELEVISA PUEBLA
+http://clubtv.link/17may/170may/geomex.php?c=2312&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",A+ 
+http://clubtv.link/17may/170may/geomex.php?c=2316&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",TVMAS
+http://clubtv.link/17may/170may/geomex.php?c=2324&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",CANAL DEL CONGRESO
+http://clubtv.link/17may/170may/geomex.php?c=2331&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+http://clubtv.link/17may/170may/geomex.php?c=2352&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV HD  
+http://clubtv.link/17may/170may/geomex.php?c=2606&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",ACADEMIA
+http://clubtv.link/17may/170may/geomex.php?c=2703&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
+http://clubtv.link/17may/170may/geomex.php?c=2882&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" none="CINE Y SERIES" group-title="PLUTO TV", CINE CLASICO
@@ -1259,9 +583,9 @@ http://clubtv.link/17may/170may/plutotv.php?c=5f1acb4eebe0f0000767b40f/master.m3
 http://clubtv.link/17may/170may/plutotv.php?c=5f1aaefb96f755000733c11a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" none="MARATONES" group-title="PLUTO TV", VAYA SEMANITA
 http://clubtv.link/17may/170may/plutotv.php?c=5f28009b150b2500077766b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" none="MARATONES" group-title="PLUTO TV", TV VIDA REAL
-http://clubtv.link/17may/170may/plutotv.php?c=5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d530-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec2383fd-6e28-4df5-9d1c-b66eee700e0c&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" none="MARATONES" group-title="PLUTO TV", TV VIDA REAL 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dm035697ec3510009df1ef0/colorLogoPNG.png" none="MARATONES" group-title="PLUTO TV", TV VIDA REAL
+http://clubtv.link/17may/170may/plutotv.php?c=5dm035697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d530-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec2383fd-6e28-4df5-9d1c-b66eee700e0c&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dm035697ec3510009df1ef0/colorLogoPNG.png" none="MARATONES" group-title="PLUTO TV", TV VIDA REAL 2
 http://clubtv.link/17may/170may/plutotv.php?c=5f5a0b44cc331900075e7769/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2614-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=90ce9a24-5441-43cd-b47a-9bf118213407&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1abdceddf6a20007f8ccd2/colorLogoPNG.png" none="MARATONES" group-title="PLUTO TV", REAL LIFE
 http://clubtv.link/17may/170may/plutotv.php?c=5f1abdceddf6a20007f8ccd2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c682-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8d96b811-f975-445c-a6de-0af8c9a1816e&userId=&serverSideAds=true
@@ -1287,7 +611,7 @@ http://clubtv.link/17may/170may/plutotv.php?c=5f1aadf373bed3000794d1d7/master.m3
 http://clubtv.link/17may/170may/plutotv.php?c=5f59f5b7cc331900075e7767/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff05-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=515c9042-50ef-465d-8e07-385e27e4cdaf&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" none="MARATONES" group-title="PLUTO TV", MTV CRIBS
 http://clubtv.link/17may/170may/plutotv.php?c=5f1ab9c6d8f1300007f54e30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c680-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a40f774d-360e-44d5-8490-935e6ac7b98a&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="hhttps://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" none="MARATONES" group-title="PLUTO TV", MTV CRIBS 2    
+#EXTINF:-1 tvg-logo="hhttps://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" none="MARATONES" group-title="PLUTO TV", MTV CRIBS 2
 http://clubtv.link/17may/170may/plutotv.php?c=5f5a0a5ea82f7200075cb926/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2612-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=786f8457-42a5-48f9-8833-bffe6bb92508&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" none="MARATONES" group-title="PLUTO TV", MTV CATFISH
 http://clubtv.link/17may/170may/plutotv.php?c=5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4497861-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=233b67dc-c1e8-4702-97db-01e491dfcc9b&userId=&serverSideAds=true
@@ -1308,7 +632,7 @@ http://clubtv.link/17may/170may/plutotv.php?c=5f1aca0b4e448e00075e7c5e/master.m3
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" none="INFANTIL" group-title="PLUTO TV", BOB ESPONJA PLUS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" none="INFANTIL" group-title="PLUTO TV", TV ANIME
-http://clubtv.link/17may/170may/plutotv.php?c=5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
+http://clubtv.link/17may/170may/plutotv.php?c=5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9m0357-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" none="INFANTIL" group-title="PLUTO TV", TV ANIME ACCIÓN
 http://clubtv.link/17may/170may/plutotv.php?c=5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" none="INFANTIL" group-title="PLUTO TV", YU-GI-OH!
@@ -1325,8 +649,8 @@ http://clubtv.link/17may/170may/plutotv.php?c=5ff4b9ccf938f8000779eb99/master.m3
 http://clubtv.link/17may/170may/plutotv.php?c=5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff372-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508efa49-44d3-42fd-8d4d-75f10b4e7cc7&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" none="INFANTIL" group-title="PLUTO TV", NICK CLÁSICO
 http://clubtv.link/17may/170may/plutotv.php?c=5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18711-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8d15965-7824-4eee-a6c8-345e488692b7&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da617may/170mayec4/colorLogoPNG.png" none="INFANTIL" group-title="PLUTO TV", NICK LATINO
-http://clubtv.link/17may/170may/plutotv.php?c=5d8d08395f39465da617may/170mayec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6m03ec4/colorLogoPNG.png" none="INFANTIL" group-title="PLUTO TV", NICK LATINO
+http://clubtv.link/17may/170may/plutotv.php?c=5d8d08395f39465da6m03ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png" none="INFANTIL" group-title="PLUTO TV", NICK TEEN
 http://clubtv.link/17may/170may/plutotv.php?c=5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" none="INFANTIL" group-title="PLUTO TV", ANIMAKIDS
@@ -1561,8 +885,8 @@ http://clubtv.link/17may/170may/plutotv.php?c=5812b0f2237a6ff45d16c3f9/master.m3
 http://clubtv.link/17may/170may/plutotv.php?c=5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 #EXTINF:-1 none="DEPORTES 2" tvg-logo="http://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="PLUTO TV",POKER GO
 http://clubtv.link/17may/170may/plutotv.php?c=5fc54366b04b2300072e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-#EXTINF:-1 none="MUSICA 2" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="PLUTO TV",VEVO 70'S
-http://clubtv.link/17may/170may/plutotv.php?c=5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
+#EXTINF:-1 none="MUSICA 2" tvg-logo="https://images.pluto.tv/channels/5f32m03bcd8aea00071240e5/colorLogoPNG.png" group-title="PLUTO TV",VEVO 70'S
+http://clubtv.link/17may/170may/plutotv.php?c=5f32m03bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
 #EXTINF:-1 none="MUSICA 2" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="PLUTO TV",VEVO 80'S
 http://clubtv.link/17may/170may/plutotv.php?c=5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
 #EXTINF:-1 none="MUSICA 2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="PLUTO TV",VEVO 90'S
@@ -1577,100 +901,6 @@ http://clubtv.link/17may/170may/plutotv.php?c=5da0d83f66c9700009b96d0e/master.m3
 http://clubtv.link/17may/170may/plutotv.php?c=5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=true
 #EXTINF:-1 none="MUSICA 2" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="PLUTO TV",VEVO REGGAETÓN & TRAP
 http://clubtv.link/17may/170may/plutotv.php?c=5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
-
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/assets/images/default/channel.id-featured-default.jpg" group-title="PLUTO TV", Pluto Tv
-http://clubtv.link/17may/170may/plutotv.php?c=5e793a7cfbdf780007f7eb75
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg" group-title="PLUTO TV", Cine Suspenso
-http://clubtv.link/17may/170may/plutotv.php?c=5ddc4e8bcbb9010009b4e84f
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg" group-title="PLUTO TV", Cine Accion
-http://clubtv.link/17may/170may/plutotv.php?c=5dcb62e63d4d8f0009f36881
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg" group-title="PLUTO TV", Estrellas en Accion
-http://clubtv.link/17may/170may/plutotv.php?c=5e972a21ad709d00074195ba
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg" group-title="PLUTO TV", Cine Comedia
-http://clubtv.link/17may/170may/plutotv.php?c=5dcdde78f080d900098550e4
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg" group-title="PLUTO TV", Cine Terror
-http://clubtv.link/17may/170may/plutotv.php?c=5dcddf1ed95e740009fef7ab
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg" group-title="PLUTO TV", Viajes
-http://clubtv.link/17may/170may/plutotv.php?c=5dcddfbdb7cf0e0009ae09ea
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg" group-title="PLUTO TV", Cine Drama
-http://clubtv.link/17may/170may/plutotv.php?c=5dcddfcb229eff00091b6bdf
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg" group-title="PLUTO TV", Cocina
-http://clubtv.link/17may/170may/plutotv.php?c=5dcde0657444a40009cd2422
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpg" group-title="PLUTO TV", Deportes
-http://clubtv.link/17may/170may/plutotv.php?c=5dcde07af1c85b0009b18651
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/featuredImage.jpg" group-title="PLUTO TV", Novelas
-http://clubtv.link/17may/170may/plutotv.php?c=5dcde0cc2efd2700090b7ff4
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg" group-title="PLUTO TV", Series
-http://clubtv.link/17may/170may/plutotv.php?c=5dcde1317578340009b751d0
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg" group-title="PLUTO TV", Anime
-http://clubtv.link/17may/170may/plutotv.php?c=5dcde17bf6591d0009839e02
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg" group-title="PLUTO TV", Reality
-http://clubtv.link/17may/170may/plutotv.php?c=5dcde197f6591d0009839e04
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg" group-title="PLUTO TV", Investiga
-http://clubtv.link/17may/170may/plutotv.php?c=5dcde27ffae9520009c0c75a
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/featuredImage.jpg" group-title="PLUTO TV", Junior
-http://clubtv.link/17may/170may/plutotv.php?c=5dcde2ac4bc6c500094ab45b
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg" group-title="PLUTO TV", Cine Estelar
-http://clubtv.link/17may/170may/plutotv.php?c=5dcde437229eff00091b6c30
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg" group-title="PLUTO TV", Hogar
-http://clubtv.link/17may/170may/plutotv.php?c=5dd6ab8056beb000091fc6b6
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/featuredImage.jpg" group-title="PLUTO TV", Competencias
-http://clubtv.link/17may/170may/plutotv.php?c=5dd6d935d000120009bc1132
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg" group-title="PLUTO TV", Kids
-http://clubtv.link/17may/170may/plutotv.php?c=5dd6dae8ce788b0009eaf77b
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg" group-title="PLUTO TV", Velocidad
-http://clubtv.link/17may/170may/plutotv.php?c=5dd6dc7480e3550009133d4a
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg" group-title="PLUTO TV", Cine Familia
-http://clubtv.link/17may/170may/plutotv.php?c=5dd6ddb30a1d8a000908ed4c
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/featuredImage.jpg" group-title="PLUTO TV", Teen
-http://clubtv.link/17may/170may/plutotv.php?c=5dd6de52b9914200091f047a
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/featuredImage.jpg" group-title="PLUTO TV", Cine Romance
-http://clubtv.link/17may/170may/plutotv.php?c=5dd7ea2aeab5230009986735
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/featuredImage.jpg" group-title="PLUTO TV", Animales
-http://clubtv.link/17may/170may/plutotv.php?c=5dd834c66fe2ca0009303b8d
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/featuredImage.jpg" group-title="PLUTO TV", Series Latinas
-http://clubtv.link/17may/170may/plutotv.php?c=5dd837642c6e9300098ad484
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg" group-title="PLUTO TV", Naturaleza
-http://clubtv.link/17may/170may/plutotv.php?c=5dd85eac039bba0009e86d1d
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/featuredImage.jpg" group-title="PLUTO TV", Nick Clasico
-http://clubtv.link/17may/170may/plutotv.php?c=5ddd7c348520b40009c347e2
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage.jpg" group-title="PLUTO TV", Nick Jr Club
-http://clubtv.link/17may/170may/plutotv.php?c=5ddd7cb2cbb9010009b4fe32
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/featuredImage.jpg" group-title="PLUTO TV", Degrassi
-http://clubtv.link/17may/170may/plutotv.php?c=5de58ef515635d00091f605d
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/featuredImage.jpg" group-title="PLUTO TV", Series Retro
-http://clubtv.link/17may/170may/plutotv.php?c=5de802659167b10009e7deba
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/featuredImage.jpg" group-title="PLUTO TV", Mtv Classic
-http://clubtv.link/17may/170may/plutotv.php?c=5de91b7ea86ee60009d89e75
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg" group-title="PLUTO TV", Telefe clasico
-http://clubtv.link/17may/170may/plutotv.php?c=5de91cf02fc07c0009910465
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg" group-title="PLUTO TV", Cine
-http://clubtv.link/17may/170may/plutotv.php?c=5defde6d6c07b50009cf0757
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg" group-title="PLUTO TV", MasterChef
-http://clubtv.link/17may/170may/plutotv.php?c=5e3ddbd27091820009f86dd9
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/featuredImage.jpg" group-title="PLUTO TV", Futbol para Fans
-http://clubtv.link/17may/170may/plutotv.php?c=5e3ddd1a3ef73b00091d5779
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg" group-title="PLUTO TV", Minuto para Ganar
-http://clubtv.link/17may/170may/plutotv.php?c=5e46e64dc73db400094b5f0b
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg" group-title="PLUTO TV", Los archivos del FBI
-http://clubtv.link/17may/170may/plutotv.php?c=5e67d41b93312100076f3fca
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/featuredImage.jpg" group-title="PLUTO TV", BABAR
-http://clubtv.link/17may/170may/plutotv.php?c=5e67e20c93312100076f3ffe
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/featuredImage.jpg" group-title="PLUTO TV", Anime Accion
-http://clubtv.link/17may/170may/plutotv.php?c=5e6a4d875d7ccf0007cc2cf1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e8f8e7598841d0007bf35b3/featuredImage.jpg" group-title="PLUTO TV", Comedy Central Stand-Up
-http://clubtv.link/17may/170may/plutotv.php?c=5e8f8e7598841d0007bf35b3
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="PLUTO TV", Peleas
-http://clubtv.link/17may/170may/plutotv.php?c=5e98b0447665f200078caded
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg" group-title="PLUTO TV", The New Detectives
-http://clubtv.link/17may/170may/plutotv.php?c=5ea71d48af1d0b0007d837f4
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg" group-title="PLUTO TV", Rugrats Crecidos
-http://clubtv.link/17may/170may/plutotv.php?c=5ea7215005d66d0007e8128a
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/featuredImage.jpg" group-title="PLUTO TV", Star Trek
-http://clubtv.link/17may/170may/plutotv.php?c=5ec5761aabe4690007f6e047
-
 
 #EXTINF:-1 group-title="MUSICA" tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
