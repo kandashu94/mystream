@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/782dyq3x5ju1446xy4zp"
 #EXTINF:-1 group-title="24/7",24/7 ALF
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/271.ts
 #EXTINF:-1 group-title="24/7",24/7 Avatar: la leyenda de Aang
