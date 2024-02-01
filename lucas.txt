@@ -535,21 +535,21 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/90.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/235.ts
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/fxhd.png",FX HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/114.ts
-#EXTINF:-1 group-title="Entretenimiento",Golden Edge
+#EXTINF:-1 tvg-id="GoldenEdge.mx" group-title="Entretenimiento",Golden Edge
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13629.ts
-#EXTINF:-1 group-title="Entretenimiento",Golden Edge Full HD
+#EXTINF:-1 tvg-id="GoldenEdge.mx" group-title="Entretenimiento",Golden Edge Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13628.ts
-#EXTINF:-1 group-title="Entretenimiento",Golden Plus Full HD
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" group-title="Entretenimiento",Golden Plus Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3313.ts
-#EXTINF:-1 group-title="Entretenimiento",Golden Plus HD
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" group-title="Entretenimiento",Golden Plus HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3358.ts
-#EXTINF:-1 group-title="Entretenimiento",Golden Plus HD
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" group-title="Entretenimiento",Golden Plus HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13625.ts
-#EXTINF:-1 group-title="Entretenimiento",Golden Premier
+#EXTINF:-1 tvg-id="GoldenPremier.mx" group-title="Entretenimiento",Golden Premier
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13627.ts
-#EXTINF:-1 group-title="Entretenimiento",Golden Premier Full HD
+#EXTINF:-1 tvg-id="GoldenPremier.mx" group-title="Entretenimiento",Golden Premier Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5887.ts
-#EXTINF:-1 group-title="Entretenimiento",Golden Premier HD
+#EXTINF:-1 tvg-id="GoldenPremier.mx" group-title="Entretenimiento",Golden Premier HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13626.ts
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png",HBO
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5890.ts
