@@ -535,7 +535,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/90.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/235.ts
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/fxhd.png",FX HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/114.ts
-#EXTINF:-1 tvg-id="GoldenEdge.mx" group-title="Entretenimiento" tvg-shift="-1",Golden Edge
+#EXTINF:-1 tvg-id="GoldenEdge.mx" group-title="Entretenimiento" tvg-shift="+2",Golden Edge
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13629.ts
 #EXTINF:-1 tvg-id="GoldenEdge.mx" group-title="Entretenimiento", Golden Edge Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13628.ts
