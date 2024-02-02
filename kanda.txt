@@ -1,1368 +1,776 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/782dyq3x5ju1446xy4zp"
-#EXTINF:-1 group-title="24/7",24/7 ALF
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 ALF
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/271.ts
-#EXTINF:-1 group-title="24/7",24/7 Avatar: la leyenda de Aang
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Avatar: la leyenda de Aang
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/272.ts
-#EXTINF:-1 group-title="24/7",24/7 Avatar: la leyenda de Korra
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Avatar: la leyenda de Korra
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/273.ts
-#EXTINF:-1 group-title="24/7",24/7 Ben 10
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Ben 10
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/274.ts
-#EXTINF:-1 group-title="24/7",24/7 Ben 10: Omniverse
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Ben 10: Omniverse
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/275.ts
-#EXTINF:-1 group-title="24/7",24/7 Bewitched Hechizada
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Bewitched Hechizada
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/276.ts
-#EXTINF:-1 group-title="24/7",24/7 Bob Esponja S1
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Bob Esponja S1
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14904.ts
-#EXTINF:-1 group-title="24/7",24/7 Bob Esponja S2
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Bob Esponja S2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14905.ts
-#EXTINF:-1 group-title="24/7",24/7 Bobs Burgers
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Bobs Burgers
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/278.ts
-#EXTINF:-1 group-title="24/7",24/7 Caballeros del zodiaco
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Caballeros del zodiaco
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/279.ts
-#EXTINF:-1 group-title="24/7",24/7 Caso Cerrado HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Caso Cerrado HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/280.ts
-#EXTINF:-1 group-title="24/7",24/7 Cat-Dog
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Cat-Dog
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/282.ts
-#EXTINF:-1 group-title="24/7",24/7 Coraje el perro cobarde
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Coraje el perro cobarde
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/283.ts
-#EXTINF:-1 group-title="24/7",24/7 Danny Phantom
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Danny Phantom
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/284.ts
-#EXTINF:-1 group-title="24/7",24/7 Dave el Barbaro
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Dave el Barbaro
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/285.ts
-#EXTINF:-1 group-title="24/7",24/7 Digimon Adventure
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Digimon Adventure
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/286.ts
-#EXTINF:-1 group-title="24/7",24/7 Dr. House
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Dr. House
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/287.ts
-#EXTINF:-1 group-title="24/7",24/7 Dragon Ball Super HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Dragon Ball Super HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/288.ts
-#EXTINF:-1 group-title="24/7",24/7 Dragon Ball Super HD *
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Dragon Ball Super HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/289.ts
-#EXTINF:-1 group-title="24/7",24/7 Ed Edd y Eddy
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Ed Edd y Eddy
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/290.ts
-#EXTINF:-1 group-title="24/7",24/7 El chavo del 8
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 El chavo del 8
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/291.ts
-#EXTINF:-1 group-title="24/7",24/7 El Coyote y el Correcaminos
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 El Coyote y el Correcaminos
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/292.ts
-#EXTINF:-1 group-title="24/7",24/7 El laboratorio de Dexter
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 El laboratorio de Dexter
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/293.ts
-#EXTINF:-1 group-title="24/7",24/7 El Príncipe del Rap
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 El Príncipe del Rap
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/294.ts
-#EXTINF:-1 group-title="24/7",24/7 El tunel del tiempo
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 El tunel del tiempo
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/295.ts
-#EXTINF:-1 group-title="24/7",24/7 Fantasias animadas de ayer y hoy
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Fantasias animadas de ayer y hoy
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/296.ts
-#EXTINF:-1 group-title="24/7",24/7 Futurama HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Futurama HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/297.ts
-#EXTINF:-1 group-title="24/7",24/7 Gravity Falls HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Gravity Falls HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/298.ts
-#EXTINF:-1 group-title="24/7",24/7 Jimmy Neutron
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Jimmy Neutron
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/300.ts
-#EXTINF:-1 group-title="24/7",24/7 Johnny Bravo
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Johnny Bravo
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/301.ts
-#EXTINF:-1 group-title="24/7",24/7 La familia Addams
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 La familia Addams
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/302.ts
-#EXTINF:-1 group-title="24/7",24/7 La Familia Monster
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 La Familia Monster
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/303.ts
-#EXTINF:-1 group-title="24/7",24/7 La pantera rosa
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 La pantera rosa
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/304.ts
-#EXTINF:-1 group-title="24/7",24/7 La vaca y el pollito
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 La vaca y el pollito
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/305.ts
-#EXTINF:-1 group-title="24/7",24/7 Los 3 Chiflados
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Los 3 Chiflados
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/306.ts
-#EXTINF:-1 group-title="24/7",24/7 Los Simpson HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Los Simpson HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/307.ts
-#EXTINF:-1 group-title="24/7",24/7 Los Simpson T01-T15
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Los Simpson T01-T15
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/308.ts
-#EXTINF:-1 group-title="24/7",24/7 Los Simpson T1
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Los Simpson T1
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13723.ts
-#EXTINF:-1 group-title="24/7",24/7 Los Simpson T16-T27
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Los Simpson T16-T27
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/309.ts
-#EXTINF:-1 group-title="24/7",24/7 Los Simpson T2
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Los Simpson T2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13724.ts
-#EXTINF:-1 group-title="24/7",24/7 Los Simpson T3
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Los Simpson T3
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13725.ts
-#EXTINF:-1 group-title="24/7",24/7 Los Simpson T4
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Los Simpson T4
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13726.ts
-#EXTINF:-1 group-title="24/7",24/7 Los Supersonicos
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Los Supersonicos
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/310.ts
-#EXTINF:-1 group-title="24/7",24/7 Malcolm HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Malcolm HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/311.ts
-#EXTINF:-1 group-title="24/7",24/7 Mi Bella Genio
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Mi Bella Genio
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/312.ts
-#EXTINF:-1 group-title="24/7",24/7 Pinky y Cerebro
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Pinky y Cerebro
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/313.ts
-#EXTINF:-1 group-title="24/7",24/7 The Big Bang Theory
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 The Big Bang Theory
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/314.ts
-#EXTINF:-1 group-title="24/7",24/7 Thundercats
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Thundercats
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/315.ts
-#EXTINF:-1 group-title="24/7",24/7 Tom y Jerry
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="24/7",24/7 Tom y Jerry
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/316.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png",CL: AXN HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13509.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/entretenimiento/cinecanal.png",CL: Cinecanal HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9722.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/entretenimiento/cinemax.png",CL: Cinemax
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13504.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/infantiles/disneychannel.png",CL: Disney Channel HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9032.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/entretenimiento/e.png",CL: E! HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13501.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/culturales/elgourmet.png",CL: El Gourmet HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9106.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/etc.png",CL: ETC TV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1513.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png",CL: HBO HD SUB
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13503.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/culturales/history2.png",CL: History 2 HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14278.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/culturales/history.png",CL: History HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/12184.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/lared.png",CL: La Red *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14869.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/lared.png",CL: La Red **
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14870.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/lared.png",CL: La Red HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/mega.png",CL: Mega
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7469.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/mega.png",CL: Mega *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14868.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/mega.png",CL: Mega Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/mega.png",CL: Mega HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/2.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/megaplus.png",CL: Mega Plus HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9748.ts
-#EXTINF:-1 group-title="Chile",CL: NTV Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10500.ts
-#EXTINF:-1 group-title="Chile",CL: NTV HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10501.ts
-#EXTINF:-1 group-title="Chile",CL: Origen TV Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14276.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/rectv.png",CL: Rec TV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14880.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/rectv.png",CL: Rec TV HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/52.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png",CL: Space HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9709.ts
-#EXTINF:-1 group-title="Chile",CL: Star Channel HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/55.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png",CL: TNT HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/56.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/ucv.png",CL: TV + *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14875.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/ucv.png",CL: TV + **
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14874.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/ucv.png",CL: TV + HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/12.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/tvsenado.png",CL: TV Senado
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8725.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/tvn.png",CL: TVN
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9050.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/tvn.png",CL: TVN *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9755.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/tvn.png",CL: TVN **
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9756.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/tvn.png",CL: TVN Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="http://logos.iptv.wtf/chile/tvn.png",CL: TVN HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8.ts
-#EXTINF:-1 group-title="Chile",CL: UCV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14893.ts
-#EXTINF:-1 group-title="Chile",CL: UCV HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13455.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="https://logos.iptv.wtf/chile/viax.png",CL: Via X
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13888.ts
-#EXTINF:-1 group-title="Chile" tvg-logo="https://logos.iptv.wtf/chile/viax2.png",CL: Via X 2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13889.ts
-#EXTINF:-1 group-title="Noticias" tvg-logo="http://logos.iptv.wtf/chile/24horas.png",24 Horas *
+#EXTINF:-1 tvg-id="Canal24HorasChile.ar"tvg-logo="http://logos.iptv.wtf/chile/24horas.png"tvg-shift=""group-title="Noticias",24 Horas *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13502.ts
-#EXTINF:-1 group-title="Noticias" tvg-logo="http://logos.iptv.wtf/chile/24horas.png",24 Horas HD
+#EXTINF:-1 tvg-id="Canal24HorasChile.ar"tvg-logo="http://logos.iptv.wtf/chile/24horas.png"tvg-shift=""group-title="Noticias",24 Horas HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/2109.ts
-#EXTINF:-1 group-title="Noticias" tvg-logo="http://logos.iptv.wtf/chile/cnnchile.png",CNN Chile *
+#EXTINF:-1 tvg-id="CNNChile.co"tvg-logo="http://logos.iptv.wtf/chile/cnnchile.png"tvg-shift=""group-title="Noticias",CNN Chile *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13495.ts
-#EXTINF:-1 group-title="Noticias",CNN en Español
+#EXTINF:-1 tvg-id="CNNEnEspanol.ar"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png"tvg-shift=""group-title="Noticias",CNN en Español
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7471.ts
-#EXTINF:-1 group-title="Noticias",Fox News (Inglés)
+#EXTINF:-1 tvg-id="FoxNewsChannel(English).mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60179_dark_360w_270h.png"tvg-shift=""group-title="Noticias",Fox News (Inglés)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14890.ts
-#EXTINF:-1 group-title="Noticias",Fox News (Inglés) *
+#EXTINF:-1 tvg-id="FoxNewsChannel(English).mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60179_dark_360w_270h.png"tvg-shift=""group-title="Noticias",Fox News (Inglés) *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14891.ts
-#EXTINF:-1 group-title="Noticias",Mega Noticias Señal Digital HD
+#EXTINF:-1 tvg-id="MeganoticiasMX.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16292_dark_360w_270h.png"tvg-shift=""group-title="Noticias",Mega Noticias Señal Digital HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/2112.ts
-#EXTINF:-1 group-title="Noticias",RT America
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Noticias",RT America
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/265.ts
-#EXTINF:-1 group-title="Noticias",RT Noticias HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Noticias",RT Noticias HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5913.ts
-#EXTINF:-1 group-title="Noticias",T13 HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Noticias",T13 HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/2111.ts
-#EXTINF:-1 group-title="Noticias",TeleSUR
+#EXTINF:-1 tvg-id="TeleSur.pr"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47620_dark_360w_270h.png"tvg-shift=""group-title="Noticias",TeleSUR
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/2130.ts
-#EXTINF:-1 group-title="Noticias",TeleSUR HD
+#EXTINF:-1 tvg-id="TeleSur.pr"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47620_dark_360w_270h.png"tvg-shift=""group-title="Noticias",TeleSUR HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/2129.ts
-#EXTINF:-1 group-title="Deportes",Al Jazeera
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",Al Jazeera
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14031.ts
-#EXTINF:-1 group-title="Deportes",Al Jazeera HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",Al Jazeera HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14032.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/beinsportsn.png",beIN SPORTS Ñ
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/beinsportsn.png"tvg-shift=""group-title="Deportes",beIN SPORTS Ñ
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1647.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/beinsportsn.png",Bein Sports Ñ HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/beinsportsn.png"tvg-shift=""group-title="Deportes",Bein Sports Ñ HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6814.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/beinsportsn.png",beIN SPORTS Ñ HD *
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/beinsportsn.png"tvg-shift=""group-title="Deportes",beIN SPORTS Ñ HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10776.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/beinsportsn.png",Bein Sports USA
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/beinsportsn.png"tvg-shift=""group-title="Deportes",Bein Sports USA
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13896.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/cdo.png",CDO HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/cdo.png"tvg-shift=""group-title="Deportes",CDO HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13892.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/cdop.png",CDO Premium
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/cdop.png"tvg-shift=""group-title="Deportes",CDO Premium
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/36.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/cdop.png",CDO Premium HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/cdop.png"tvg-shift=""group-title="Deportes",CDO Premium HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/37.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png",CL: ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN3.co"tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png"tvg-shift=""group-title="Deportes",CL: ESPN 3 HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/33.ts
-#EXTINF:-1 group-title="Deportes",CL: ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN4SUR.co"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122027_dark_360w_270h.png"tvg-shift=""group-title="Deportes",CL: ESPN 4 HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13890.ts
-#EXTINF:-1 group-title="Deportes",CL: ESPN Extra
+#EXTINF:-1 tvg-id="ESPNEXTRA.co"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png"tvg-shift=""group-title="Deportes",CL: ESPN Extra
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13891.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png",CL: ESPN HD
+#EXTINF:-1 tvg-id="ESPN.co"tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png"tvg-shift=""group-title="Deportes",CL: ESPN HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/31.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports1.png",CL: Fox Sports 1
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports1.png"tvg-shift=""group-title="Deportes",CL: Fox Sports 1
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9673.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2.png",CL: Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2.co"tvg-logo="http://logos.iptv.wtf/deportes/foxsports2.png"tvg-shift=""group-title="Deportes",CL: Fox Sports 2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9674.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3.png",CL: Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3.co"tvg-logo="http://logos.iptv.wtf/deportes/foxsports3.png"tvg-shift=""group-title="Deportes",CL: Fox Sports 3
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9675.ts
-#EXTINF:-1 group-title="Deportes",Claro Sports
+#EXTINF:-1 tvg-id=""tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png"tvg-shift=""group-title="Deportes",Claro Sports
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14028.ts
-#EXTINF:-1 group-title="Deportes",DE: SKY SPORT F1
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",DE: SKY SPORT F1
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14898.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png",DirecTV Sports 2
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png"tvg-shift=""group-title="Deportes",DirecTV Sports 2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/43.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png",DirecTV Sports 2 Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png"tvg-shift=""group-title="Deportes",DirecTV Sports 2 Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/41.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png",DirecTV Sports 2 HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png"tvg-shift=""group-title="Deportes",DirecTV Sports 2 HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/42.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png",DirecTv Sports HD **
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png"tvg-shift=""group-title="Deportes",DirecTv Sports HD **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14004.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/directvsportsplus.png",DirecTV Sports Plus
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/directvsportsplus.png"tvg-shift=""group-title="Deportes",DirecTV Sports Plus
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/44.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/directvsportsplus.png",DirecTV Sports Plus HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/directvsportsplus.png"tvg-shift=""group-title="Deportes",DirecTV Sports Plus HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13956.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espn2.png",ESPN 2 Argentina
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espn2.png"tvg-shift=""group-title="Deportes",ESPN 2 Argentina
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11649.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png",ESPN 2 Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png"tvg-shift=""group-title="Deportes",ESPN 2 Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13568.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png",ESPN 2 HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png"tvg-shift=""group-title="Deportes",ESPN 2 HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3477.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espn2.png",ESPN 2 Perú
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espn2.png"tvg-shift=""group-title="Deportes",ESPN 2 Perú
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11702.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png",ESPN 2 Sur HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png"tvg-shift=""group-title="Deportes",ESPN 2 Sur HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13506.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espn3.png",ESPN 3 Argentina
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espn3.png"tvg-shift=""group-title="Deportes",ESPN 3 Argentina
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11604.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png",ESPN 3 Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png"tvg-shift=""group-title="Deportes",ESPN 3 Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13569.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png",ESPN 3 HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png"tvg-shift=""group-title="Deportes",ESPN 3 HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3480.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espn3.png",ESPN 3 Perú
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espn3.png"tvg-shift=""group-title="Deportes",ESPN 3 Perú
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11662.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png",ESPN 3 Sur HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png"tvg-shift=""group-title="Deportes",ESPN 3 Sur HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13507.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png",ESPN Extra HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png"tvg-shift=""group-title="Deportes",ESPN Extra HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3483.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png",ESPN Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png"tvg-shift=""group-title="Deportes",ESPN Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13567.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png",ESPN HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png"tvg-shift=""group-title="Deportes",ESPN HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3474.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espn.png",ESPN Perú
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espn.png"tvg-shift=""group-title="Deportes",ESPN Perú
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11711.ts
-#EXTINF:-1 group-title="Deportes",ESPN Premium HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",ESPN Premium HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14002.ts
-#EXTINF:-1 group-title="Deportes",ESPN Premium HD *
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",ESPN Premium HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9678.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png",ESPN Sur HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png"tvg-shift=""group-title="Deportes",ESPN Sur HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13505.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png",Fox Sports 2 Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png"tvg-shift=""group-title="Deportes",Fox Sports 2 Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13571.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png",Fox Sports 2 Full HD *
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png"tvg-shift=""group-title="Deportes",Fox Sports 2 Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3332.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png",Fox Sports 2 HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png"tvg-shift=""group-title="Deportes",Fox Sports 2 HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3489.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2.png",Fox Sports 2 HD (MX)
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports2.png"tvg-shift=""group-title="Deportes",Fox Sports 2 HD (MX)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10270.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png",Fox Sports 3 Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png"tvg-shift=""group-title="Deportes",Fox Sports 3 Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13572.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png",Fox Sports 3 Full HD *
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png"tvg-shift=""group-title="Deportes",Fox Sports 3 Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3329.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png",Fox Sports 3 HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png"tvg-shift=""group-title="Deportes",Fox Sports 3 HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3492.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3.png",Fox Sports 3 HD (MX)
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports3.png"tvg-shift=""group-title="Deportes",Fox Sports 3 HD (MX)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10271.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png",Fox Sports Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png"tvg-shift=""group-title="Deportes",Fox Sports Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13570.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports1hd.png",Fox Sports Full HD *
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports1hd.png"tvg-shift=""group-title="Deportes",Fox Sports Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3331.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png",Fox Sports HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png"tvg-shift=""group-title="Deportes",Fox Sports HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3486.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png",Fox Sports HD (MX)
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png"tvg-shift=""group-title="Deportes",Fox Sports HD (MX)
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10269.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/goltv.png",Gol TV HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/goltv.png"tvg-shift=""group-title="Deportes",Gol TV HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1649.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/golchannellatam.png",Golf Channel Latinoamerica HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/golchannellatam.png"tvg-shift=""group-title="Deportes",Golf Channel Latinoamerica HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1656.ts
-#EXTINF:-1 group-title="Deportes",MX: TVC Deportes
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",MX: TVC Deportes
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14029.ts
-#EXTINF:-1 group-title="Deportes",PE: Global
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",PE: Global
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13713.ts
-#EXTINF:-1 group-title="Deportes",Sky Sports Premiere League
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",Sky Sports Premiere League
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14030.ts
-#EXTINF:-1 group-title="Deportes",The Sport Network 1
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",The Sport Network 1
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11290.ts
-#EXTINF:-1 group-title="Deportes",The Sport Network 2
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",The Sport Network 2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11291.ts
-#EXTINF:-1 group-title="Deportes",The Sport Network 3
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",The Sport Network 3
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11292.ts
-#EXTINF:-1 group-title="Deportes",The Sport Network 4
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",The Sport Network 4
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11293.ts
-#EXTINF:-1 group-title="Deportes",The Sport Network 5
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",The Sport Network 5
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11294.ts
-#EXTINF:-1 group-title="Deportes",Tigo Sports HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",Tigo Sports HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/12974.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png",TNT Sports
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png"tvg-shift=""group-title="Deportes",TNT Sports
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6817.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png",TNT Sports *
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png"tvg-shift=""group-title="Deportes",TNT Sports *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/18.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png",TNT Sports **
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png"tvg-shift=""group-title="Deportes",TNT Sports **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14881.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png",TNT Sports ***
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png"tvg-shift=""group-title="Deportes",TNT Sports ***
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14882.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png",TNT Sports ****
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png"tvg-shift=""group-title="Deportes",TNT Sports ****
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14883.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsports2.png",TNT Sports 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsports2.png"tvg-shift=""group-title="Deportes",TNT Sports 2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6818.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsports2.png",TNT Sports 2 *
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsports2.png"tvg-shift=""group-title="Deportes",TNT Sports 2 *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14884.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsports2.png",TNT Sports 2 **
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsports2.png"tvg-shift=""group-title="Deportes",TNT Sports 2 **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14885.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsports3.png",TNT Sports 3
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsports3.png"tvg-shift=""group-title="Deportes",TNT Sports 3
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6816.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsports3.png",TNT Sports 3 *
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsports3.png"tvg-shift=""group-title="Deportes",TNT Sports 3 *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14886.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsports3.png",TNT Sports 3 **
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsports3.png"tvg-shift=""group-title="Deportes",TNT Sports 3 **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14887.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png",TNT Sports HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png"tvg-shift=""group-title="Deportes",TNT Sports HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/16.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png",TNT Sports HD *
+#EXTINF:-1 tvg-id=""tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png"tvg-shift=""group-title="Deportes",TNT Sports HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/17.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png",TNT Sports HD ARG
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png"tvg-shift=""group-title="Deportes",TNT Sports HD ARG
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14003.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png",TNT Sports HD ARG *
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png"tvg-shift=""group-title="Deportes",TNT Sports HD ARG *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13884.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png",TNT Sports HD ARG **
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png"tvg-shift=""group-title="Deportes",TNT Sports HD ARG **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13885.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png",TNT Sports HD ARG ***
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png"tvg-shift=""group-title="Deportes",TNT Sports HD ARG ***
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13886.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png",TNT Sports HD Argentina
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png"tvg-shift=""group-title="Deportes",TNT Sports HD Argentina
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9486.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/tycsports.png",TyC Sports HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/tycsports.png"tvg-shift=""group-title="Deportes",TyC Sports HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13515.ts
-#EXTINF:-1 group-title="Deportes",UK: SKY SPORTS F1
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Deportes",UK: SKY SPORTS F1
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14897.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/winsportsplus.png",Win Sports + Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/winsportsplus.png"tvg-shift=""group-title="Deportes",Win Sports + Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6851.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://logos.iptv.wtf/deportes/winsportsplus.png",Win Sports + HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/winsportsplus.png"tvg-shift=""group-title="Deportes",Win Sports + HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9083.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.mx"tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png"tvg-shift=""group-title="Culturales",Animal Planet
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13835.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png",Animal Planet *
+#EXTINF:-1 tvg-id="AnimalPlanet.mx"tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png"tvg-shift=""group-title="Culturales",Animal Planet *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13831.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png",Animal Planet **
+#EXTINF:-1 tvg-id="AnimalPlanet.mx"tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png"tvg-shift=""group-title="Culturales",Animal Planet **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13834.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png",Animal Planet Full HD
+#EXTINF:-1 tvg-id="AnimalPlanet.mx"tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png"tvg-shift=""group-title="Culturales",Animal Planet Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13036.ts
-#EXTINF:-1 group-title="Culturales",Animal Planet Full HD *
+#EXTINF:-1 tvg-id="AnimalPlanet.mx"tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png"tvg-shift=""group-title="Culturales",Animal Planet Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13832.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png",Animal Planet HD
+#EXTINF:-1 tvg-id="AnimalPlanet.mx"tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png"tvg-shift=""group-title="Culturales",Animal Planet HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8887.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png",Animal Planet HD *
+#EXTINF:-1 tvg-id="AnimalPlanet.mx"tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png"tvg-shift=""group-title="Culturales",Animal Planet HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13833.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="https://logos.iptv.wtf/culturales/lovenature.png",CL: Love Nature
+#EXTINF:-1 tvg-id="LoveNature.co"tvg-logo="https://logos.iptv.wtf/culturales/lovenature.png"tvg-shift=""group-title="Culturales",CL: Love Nature
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14281.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discovery.png",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx"tvg-logo="http://logos.iptv.wtf/culturales/discovery.png"tvg-shift=""group-title="Culturales",Discovery Channel
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13828.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discovery.png",Discovery Channel *
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx"tvg-logo="http://logos.iptv.wtf/culturales/discovery.png"tvg-shift=""group-title="Culturales",Discovery Channel *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13830.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discovery.png",Discovery Channel **
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx"tvg-logo="http://logos.iptv.wtf/culturales/discovery.png"tvg-shift=""group-title="Culturales",Discovery Channel **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6023.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discovery.png",Discovery Channel ***
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx"tvg-logo="http://logos.iptv.wtf/culturales/discovery.png"tvg-shift=""group-title="Culturales",Discovery Channel ***
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13829.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discovery.png",Discovery Channel Full HD
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx"tvg-logo="http://logos.iptv.wtf/culturales/discovery.png"tvg-shift=""group-title="Culturales",Discovery Channel Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/105.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discovery.png",Discovery Channel HD
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx"tvg-logo="http://logos.iptv.wtf/culturales/discovery.png"tvg-shift=""group-title="Culturales",Discovery Channel HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/123.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png",Discovery Home and Health
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png"tvg-shift=""group-title="Culturales",Discovery Home and Health
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13827.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png",Discovery Home and Health *
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png"tvg-shift=""group-title="Culturales",Discovery Home and Health *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13826.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png",Discovery Home and Health Full HD
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png"tvg-shift=""group-title="Culturales",Discovery Home and Health Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/109.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryscience.png",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryscience.png"tvg-shift=""group-title="Culturales",Discovery Science
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13825.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryscience.png",Discovery Science *
+#EXTINF:-1 tvg-id="DiscoveryScience.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryscience.png"tvg-shift=""group-title="Culturales",Discovery Science *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6025.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryscience.png",Discovery Science **
+#EXTINF:-1 tvg-id="DiscoveryScience.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryscience.png"tvg-shift=""group-title="Culturales",Discovery Science **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13623.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryscience.png",Discovery Science HD
+#EXTINF:-1 tvg-id="DiscoveryScience.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryscience.png"tvg-shift=""group-title="Culturales",Discovery Science HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13622.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoverytheater.png",Discovery Theater Full HD
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoverytheater.png"tvg-shift=""group-title="Culturales",Discovery Theater Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/110.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoverytheater.png",Discovery Theater HD
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoverytheater.png"tvg-shift=""group-title="Culturales",Discovery Theater HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/118.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoverytlc.png",Discovery TLC
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/culturales/discoverytlc.png"tvg-shift=""group-title="Culturales",Discovery TLC
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13435.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoverytlc.png",Discovery TLC *
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/culturales/discoverytlc.png"tvg-shift=""group-title="Culturales",Discovery TLC *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3314.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoverytlc.png",Discovery TLC Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/culturales/discoverytlc.png"tvg-shift=""group-title="Culturales",Discovery TLC Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/111.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoverytlc.png",Discovery TLC HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/culturales/discoverytlc.png"tvg-shift=""group-title="Culturales",Discovery TLC HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/117.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryturbo.png",Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryturbo.png"tvg-shift=""group-title="Culturales",Discovery Turbo
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5975.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryturbo.png",Discovery Turbo Full HD
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryturbo.png"tvg-shift=""group-title="Culturales",Discovery Turbo Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/268.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryturbo.png",Discovery Turbo Full HD *
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryturbo.png"tvg-shift=""group-title="Culturales",Discovery Turbo Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14852.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryturbo.png",Discovery Turbo HD
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryturbo.png"tvg-shift=""group-title="Culturales",Discovery Turbo HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14853.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryworld.png",Discovery World
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryworld.png"tvg-shift=""group-title="Culturales",Discovery World
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3334.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryworld.png",Discovery World *
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryworld.png"tvg-shift=""group-title="Culturales",Discovery World *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13621.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryworld.png",Discovery World Full HD
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryworld.png"tvg-shift=""group-title="Culturales",Discovery World Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/112.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/discoveryworld.png",Discovery World HD
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryworld.png"tvg-shift=""group-title="Culturales",Discovery World HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/116.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/foodnetwork.png",Food Network Full HD
+#EXTINF:-1 tvg-id="FoodNetwork.mx"tvg-logo="http://logos.iptv.wtf/culturales/foodnetwork.png"tvg-shift=""group-title="Culturales",Food Network Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13375.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/foodnetwork.png",Food Network HD
+#EXTINF:-1 tvg-id="FoodNetwork.mx"tvg-logo="http://logos.iptv.wtf/culturales/foodnetwork.png"tvg-shift=""group-title="Culturales",Food Network HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3336.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/history2.png",H2
+#EXTINF:-1 tvg-id="History2.mx"tvg-logo="http://logos.iptv.wtf/culturales/history2.png"tvg-shift=""group-title="Culturales",H2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8867.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/history2.png",H2 *
+#EXTINF:-1 tvg-id="History2.mx"tvg-logo="http://logos.iptv.wtf/culturales/history2.png"tvg-shift=""group-title="Culturales",H2 *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13824.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/history2.png",H2 **
+#EXTINF:-1 tvg-id="History2.mx"tvg-logo="http://logos.iptv.wtf/culturales/history2.png"tvg-shift=""group-title="Culturales",H2 **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6029.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/history2.png",H2 Full HD
+#EXTINF:-1 tvg-id="History2.mx"tvg-logo="http://logos.iptv.wtf/culturales/history2.png"tvg-shift=""group-title="Culturales",H2 Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8866.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/hgtv.png",HGTV
+#EXTINF:-1 tvg-id="HGTV.mx"tvg-logo="http://logos.iptv.wtf/culturales/hgtv.png"tvg-shift=""group-title="Culturales",HGTV
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13481.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/hgtv.png",HGTV *
+#EXTINF:-1 tvg-id="HGTV.mx"tvg-logo="http://logos.iptv.wtf/culturales/hgtv.png"tvg-shift=""group-title="Culturales",HGTV *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13624.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/history.png",History Channel Full HD
+#EXTINF:-1 tvg-id="History.mx"tvg-logo="http://logos.iptv.wtf/culturales/history.png"tvg-shift=""group-title="Culturales",History Channel Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5893.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/history.png",History Channel HD
+#EXTINF:-1 tvg-id="History.mx"tvg-logo="http://logos.iptv.wtf/culturales/history.png"tvg-shift=""group-title="Culturales",History Channel HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9530.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/history.png",History Channel HD *
+#EXTINF:-1 tvg-id="History.mx"tvg-logo="http://logos.iptv.wtf/culturales/history.png"tvg-shift=""group-title="Culturales",History Channel HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9531.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/id.png",Investigation Discovery
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/culturales/id.png"tvg-shift=""group-title="Culturales",Investigation Discovery
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3368.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/id.png",Investigation Discovery Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/culturales/id.png"tvg-shift=""group-title="Culturales",Investigation Discovery Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13031.ts
-#EXTINF:-1 group-title="Culturales" tvg-logo="http://logos.iptv.wtf/culturales/id.png",Investigation Discovery HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/culturales/id.png"tvg-shift=""group-title="Culturales",Investigation Discovery HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/138.ts
-#EXTINF:-1 group-title="Culturales",NatGeo *
+#EXTINF:-1 tvg-id="NationalGeographic.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png"tvg-shift=""group-title="Culturales",NatGeo *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13823.ts
-#EXTINF:-1 group-title="Culturales",NatGeo HD *
+#EXTINF:-1 tvg-id="NationalGeographic.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png"tvg-shift=""group-title="Culturales",NatGeo HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13821.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/ae.png",A&E
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/ae.png"tvg-shift=""group-title="Entretenimiento",A&E
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3369.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/ae.png",A&E Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/ae.png"tvg-shift=""group-title="Entretenimiento",A&E Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/92.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/ae.png",A&E HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/ae.png"tvg-shift=""group-title="Entretenimiento",A&E HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/126.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/ae.png",A&E HD *
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/ae.png"tvg-shift=""group-title="Entretenimiento",A&E HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13496.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/a3series.png",A3 Series Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/a3series.png"tvg-shift=""group-title="Entretenimiento",A3 Series Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3316.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/amc.png",AMC
+#EXTINF:-1 tvg-id="AMC.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/amc.png"tvg-shift=""group-title="Entretenimiento",AMC
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13377.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/amc.png",AMC Full HD
+#EXTINF:-1 tvg-id="AMC.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/amc.png"tvg-shift=""group-title="Entretenimiento",AMC Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9523.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/amc.png",AMC HD
+#EXTINF:-1 tvg-id="AMC.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/amc.png"tvg-shift=""group-title="Entretenimiento",AMC HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9524.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/amc.png",AMC HD *
+#EXTINF:-1 tvg-id="AMC.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/amc.png"tvg-shift=""group-title="Entretenimiento",AMC HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3382.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png",AXN
+#EXTINF:-1 tvg-id="AXN.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png"tvg-shift=""group-title="Entretenimiento",AXN
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/234.ts
-#EXTINF:-1 group-title="Entretenimiento",AXN *
+#EXTINF:-1 tvg-id="AXN.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png"tvg-shift=""group-title="Entretenimiento",AXN *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14857.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png",AXN Full HD
+#EXTINF:-1 tvg-id="AXN.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png"tvg-shift=""group-title="Entretenimiento",AXN Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/103.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png",AXN HD
+#EXTINF:-1 tvg-id="AXN.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png"tvg-shift=""group-title="Entretenimiento",AXN HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/125.ts
-#EXTINF:-1 group-title="Entretenimiento",Az Clic Full HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Entretenimiento",Az Clic Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/256.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/cinecanal.png",Cinecanal Full HD
+#EXTINF:-1 tvg-id="Cinecanal.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/cinecanal.png"tvg-shift=""group-title="Entretenimiento",Cinecanal Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/107.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/cinecanal.png",Cinecanal HD
+#EXTINF:-1 tvg-id="Cinecanal.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/cinecanal.png"tvg-shift=""group-title="Entretenimiento",Cinecanal HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/121.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/cinemax.png",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/cinemax.png"tvg-shift=""group-title="Entretenimiento",Cinemax
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13883.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/cinemax.png",Cinemax Full HD
+#EXTINF:-1 tvg-id="Cinemax.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/cinemax.png"tvg-shift=""group-title="Entretenimiento",Cinemax Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13882.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/cinemax.png",Cinemax Full HD *
+#EXTINF:-1 tvg-id="Cinemax.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/cinemax.png"tvg-shift=""group-title="Entretenimiento",Cinemax Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/260.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/comedycentral.png",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/comedycentral.png"tvg-shift=""group-title="Entretenimiento",Comedy Central
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3377.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/comedycentral.png",Comedy Central Full HD
+#EXTINF:-1 tvg-id="ComedyCentral.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/comedycentral.png"tvg-shift=""group-title="Entretenimiento",Comedy Central Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/108.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/comedycentral.png",Comedy Central Full HD *
+#EXTINF:-1 tvg-id="ComedyCentral.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/comedycentral.png"tvg-shift=""group-title="Entretenimiento",Comedy Central Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/120.ts
-#EXTINF:-1 group-title="Entretenimiento",E!
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/e.png"tvg-shift=""group-title="Entretenimiento",E!
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13894.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/e.png",E! Full HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/e.png"tvg-shift=""group-title="Entretenimiento",E! Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/236.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/culturales/elgourmet.png",El Gourmet Full HD
+#EXTINF:-1 tvg-id="ElGourmet.mx"tvg-logo="http://logos.iptv.wtf/culturales/elgourmet.png"tvg-shift=""group-title="Entretenimiento",El Gourmet Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3376.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/europaeuropa.png",Europa Europa Full HD
+#EXTINF:-1 tvg-id="EuropaEuropa.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/europaeuropa.png"tvg-shift=""group-title="Entretenimiento",Europa Europa Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13476.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/europaeuropa.png",Europa Europa HD
+#EXTINF:-1 tvg-id="EuropaEuropa.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/europaeuropa.png"tvg-shift=""group-title="Entretenimiento",Europa Europa HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13478.ts
-#EXTINF:-1 group-title="Entretenimiento",Food Network Full HD
+#EXTINF:-1 tvg-id="FoodNetwork.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Food Network Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13034.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/fxhd.png",FX Full HD
+#EXTINF:-1 tvg-id="FX.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/fxhd.png"tvg-shift=""group-title="Entretenimiento",FX Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/90.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/fxhd.png",FX Full HD *
+#EXTINF:-1 tvg-id="FX.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/fxhd.png"tvg-shift=""group-title="Entretenimiento",FX Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/235.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/fxhd.png",FX HD
+#EXTINF:-1 tvg-id="FX.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/fxhd.png"tvg-shift=""group-title="Entretenimiento",FX HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/114.ts
-#EXTINF:-1 tvg-id="GoldenEdge.mx" group-title="Entretenimiento" tvg-shift="+1",Golden Edge
+#EXTINF:-1 tvg-id="GoldenEdge.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png"tvg-shift="+1"group-title="Entretenimiento",Golden Edge
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13629.ts
-#EXTINF:-1 tvg-id="GoldenEdge.mx" group-title="Entretenimiento", Golden Edge Full HD
+#EXTINF:-1 tvg-id="GoldenEdge.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Golden Edge Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13628.ts
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" group-title="Entretenimiento",Golden Plus Full HD
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Golden Plus Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3313.ts
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" group-title="Entretenimiento",Golden Plus HD
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Golden Plus HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3358.ts
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" group-title="Entretenimiento",Golden Plus HD
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Golden Plus HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13625.ts
-#EXTINF:-1 tvg-id="GoldenPremier.mx" group-title="Entretenimiento",Golden Premier
+#EXTINF:-1 tvg-id="GoldenPremier.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Golden Premier
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13627.ts
-#EXTINF:-1 tvg-id="GoldenPremier.mx" group-title="Entretenimiento",Golden Premier Full HD
+#EXTINF:-1 tvg-id="GoldenPremier.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Golden Premier Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5887.ts
-#EXTINF:-1 tvg-id="GoldenPremier.mx" group-title="Entretenimiento",Golden Premier HD
+#EXTINF:-1 tvg-id="GoldenPremier.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Golden Premier HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13626.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png",HBO
+#EXTINF:-1 tvg-id="HBO.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png"tvg-shift=""group-title="Entretenimiento",HBO
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5890.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png",HBO *
+#EXTINF:-1 tvg-id="HBO.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png"tvg-shift=""group-title="Entretenimiento",HBO *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13862.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo2.png",HBO 2
+#EXTINF:-1 tvg-id="HBO2.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo2.png"tvg-shift=""group-title="Entretenimiento",HBO 2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5888.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo2.png",HBO 2 Full HD
+#EXTINF:-1 tvg-id="HBO2.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo2.png"tvg-shift=""group-title="Entretenimiento",HBO 2 Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/60.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png"tvg-shift=""group-title="Entretenimiento",HBO Family
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13865.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png",HBO Family Full HD
+#EXTINF:-1 tvg-id="HBOFamily.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png"tvg-shift=""group-title="Entretenimiento",HBO Family Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/62.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png",HBO Family Full HD *
+#EXTINF:-1 tvg-id="HBOFamily.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png"tvg-shift=""group-title="Entretenimiento",HBO Family Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13864.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png",HBO Family Full HD *
+#EXTINF:-1 tvg-id="HBOFamily.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png"tvg-shift=""group-title="Entretenimiento",HBO Family Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13867.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png",HBO Family HD
+#EXTINF:-1 tvg-id="HBOFamily.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png"tvg-shift=""group-title="Entretenimiento",HBO Family HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/67.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png",HBO Family HD *
+#EXTINF:-1 tvg-id="HBOFamily.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png"tvg-shift=""group-title="Entretenimiento",HBO Family HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13866.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png",HBO Full HD
+#EXTINF:-1 tvg-id="HBO.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png"tvg-shift=""group-title="Entretenimiento",HBO Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/59.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png",HBO Full HD *
+#EXTINF:-1 tvg-id="HBO.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png"tvg-shift=""group-title="Entretenimiento",HBO Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13860.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png",HBO HD Inglés + Sub ES
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png"tvg-shift=""group-title="Entretenimiento",HBO HD Inglés + Sub ES
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13861.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png",HBO Inglés + Sub
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png"tvg-shift=""group-title="Entretenimiento",HBO Inglés + Sub
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13863.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbomundi.png",HBO Mundi
+#EXTINF:-1 tvg-id="HBOMundi.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbomundi.png"tvg-shift=""group-title="Entretenimiento",HBO Mundi
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6011.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbomundi.png",HBO Mundi *
+#EXTINF:-1 tvg-id="HBOMundi.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbomundi.png"tvg-shift=""group-title="Entretenimiento",HBO Mundi *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8151.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbomundi.png",HBO Mundi **
+#EXTINF:-1 tvg-id="HBOMundi.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbomundi.png"tvg-shift=""group-title="Entretenimiento",HBO Mundi **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13869.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbomundi.png",HBO Mundi HD
+#EXTINF:-1 tvg-id="HBOMundi.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbomundi.png"tvg-shift=""group-title="Entretenimiento",HBO Mundi HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13868.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hboplus.png",HBO Plus
+#EXTINF:-1 tvg-id="HBOPlus.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hboplus.png"tvg-shift=""group-title="Entretenimiento",HBO Plus
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13871.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hboplus.png",HBO Plus **
+#EXTINF:-1 tvg-id="HBOPlus.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hboplus.png"tvg-shift=""group-title="Entretenimiento",HBO Plus **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13873.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hboplus.png",HBO Plus Full HD
+#EXTINF:-1 tvg-id="HBOPlus.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hboplus.png"tvg-shift=""group-title="Entretenimiento",HBO Plus Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/61.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hboplus.png",HBO Plus Full HD *
+#EXTINF:-1 tvg-id="HBOPlus.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hboplus.png"tvg-shift=""group-title="Entretenimiento",HBO Plus Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13870.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hboplus.png",HBO Plus HD
+#EXTINF:-1 tvg-id="HBOPlus.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hboplus.png"tvg-shift=""group-title="Entretenimiento",HBO Plus HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/66.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbopop.png",HBO Pop
+#EXTINF:-1 tvg-id="HBOPop.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbopop.png"tvg-shift=""group-title="Entretenimiento",HBO Pop
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13874.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbopop.png",HBO Pop *
+#EXTINF:-1 tvg-id="HBOPop.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbopop.png"tvg-shift=""group-title="Entretenimiento",HBO Pop *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13875.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbopop.png",HBO Pop Full HD
+#EXTINF:-1 tvg-id="HBOPop.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbopop.png"tvg-shift=""group-title="Entretenimiento",HBO Pop Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6110.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbopop.png",HBO Pop HD
+#EXTINF:-1 tvg-id="HBOPop.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbopop.png"tvg-shift=""group-title="Entretenimiento",HBO Pop HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8141.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbosignature.png",HBO Signature Full HD
+#EXTINF:-1 tvg-id="HBOSignature.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbosignature.png"tvg-shift=""group-title="Entretenimiento",HBO Signature Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/63.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbosignature.png",HBO Signature HD
+#EXTINF:-1 tvg-id="HBOSignature.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbosignature.png"tvg-shift=""group-title="Entretenimiento",HBO Signature HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5892.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbosignature.png",HBO Signature HD *
+#EXTINF:-1 tvg-id="HBOSignature.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbosignature.png"tvg-shift=""group-title="Entretenimiento",HBO Signature HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13877.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hboxtreme.png",HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXtreme.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hboxtreme.png"tvg-shift=""group-title="Entretenimiento",HBO Xtreme
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13879.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hboxtreme.png",HBO Xtreme *
+#EXTINF:-1 tvg-id="HBOXtreme.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hboxtreme.png"tvg-shift=""group-title="Entretenimiento",HBO Xtreme *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13880.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hboxtreme.png",HBO Xtreme Full HD
+#EXTINF:-1 tvg-id="HBOXtreme.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hboxtreme.png"tvg-shift=""group-title="Entretenimiento",HBO Xtreme Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13878.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/hboxtreme.png",HBO Xtreme HD
+#EXTINF:-1 tvg-id="HBOXtreme.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hboxtreme.png"tvg-shift=""group-title="Entretenimiento",HBO Xtreme HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5900.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/lifetime.png",Lifetime Full HD
+#EXTINF:-1 tvg-id="Lifetime.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/lifetime.png"tvg-shift=""group-title="Entretenimiento",Lifetime Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/262.ts
-#EXTINF:-1 group-title="Entretenimiento",Lifetime Full HD *
+#EXTINF:-1 tvg-id="Lifetime.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/lifetime.png"tvg-shift=""group-title="Entretenimiento",Lifetime Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13033.ts
-#EXTINF:-1 group-title="Entretenimiento",MX: Azteca Uno HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Entretenimiento",MX: Azteca Uno HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/261.ts
-#EXTINF:-1 group-title="Entretenimiento",Paramount
+#EXTINF:-1 tvg-id="Paramount.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Paramount
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6014.ts
-#EXTINF:-1 group-title="Entretenimiento",Paramount Full HD
+#EXTINF:-1 tvg-id="Paramount.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Paramount Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3345.ts
-#EXTINF:-1 group-title="Entretenimiento",Paramount HD
+#EXTINF:-1 tvg-id="Paramount.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Paramount HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5912.ts
-#EXTINF:-1 group-title="Entretenimiento",Sony
+#EXTINF:-1 tvg-id="CanalSony.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Sony
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5914.ts
-#EXTINF:-1 group-title="Entretenimiento",Sony *
+#EXTINF:-1 tvg-id="CanalSony.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Sony *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6015.ts
-#EXTINF:-1 group-title="Entretenimiento",Sony Full HD
+#EXTINF:-1 tvg-id="CanalSony.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Sony Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/97.ts
-#EXTINF:-1 group-title="Entretenimiento",Sony Full HD *
+#EXTINF:-1 tvg-id="CanalSony.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Sony Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3338.ts
-#EXTINF:-1 group-title="Entretenimiento",Sony HD
+#EXTINF:-1 tvg-id="CanalSony.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Sony HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/135.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png",Space
+#EXTINF:-1 tvg-id="Space.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png"tvg-shift=""group-title="Entretenimiento",Space
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13484.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png",Space *
+#EXTINF:-1 tvg-id="Space.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png"tvg-shift=""group-title="Entretenimiento",Space *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/255.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png",Space Full HD
+#EXTINF:-1 tvg-id="Space.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png"tvg-shift=""group-title="Entretenimiento",Space Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/98.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png",Space HD
+#EXTINF:-1 tvg-id="Space.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png"tvg-shift=""group-title="Entretenimiento",Space HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/133.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/foxpremiumaction.png",Star Action Full HD *
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/foxpremiumaction.png"tvg-shift=""group-title="Entretenimiento",Star Action Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/250.ts
-#EXTINF:-1 group-title="Entretenimiento",Star Channel
+#EXTINF:-1 tvg-id="StarChannel.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Star Channel
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14933.ts
-#EXTINF:-1 group-title="Entretenimiento",Star Channel *
+#EXTINF:-1 tvg-id="StarChannel.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Star Channel *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14934.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/fox.png",Star Channel Full HD
+#EXTINF:-1 tvg-id="StarChannel.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Star Channel Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5980.ts
-#EXTINF:-1 group-title="Entretenimiento",Star Channel Full HD *
+#EXTINF:-1 tvg-id="StarChannel.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Star Channel Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/249.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/fox.png",Star Channel HD
+#EXTINF:-1 tvg-id="StarChannel.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Star Channel HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/89.ts
-#EXTINF:-1 group-title="Entretenimiento",Star Cinema Full HD *
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Entretenimiento",Star Cinema Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6018.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/maxprime.png",Star Classic Full HD *
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/maxprime.png"tvg-shift=""group-title="Entretenimiento",Star Classic Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6012.ts
-#EXTINF:-1 group-title="Entretenimiento",Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversal.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Studio Universal
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13376.ts
-#EXTINF:-1 group-title="Entretenimiento",Studio Universal Full HD
+#EXTINF:-1 tvg-id="StudioUniversal.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Studio Universal Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/254.ts
-#EXTINF:-1 group-title="Entretenimiento",Studio Universal HD
+#EXTINF:-1 tvg-id="StudioUniversal.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Studio Universal HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5916.ts
-#EXTINF:-1 group-title="Entretenimiento",Studio Universal HD *
+#EXTINF:-1 tvg-id="StudioUniversal.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Studio Universal HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14861.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png",TNT
+#EXTINF:-1 tvg-id="TNT.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png"tvg-shift=""group-title="Entretenimiento",TNT
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13436.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png",TNT Full HD
+#EXTINF:-1 tvg-id="TNT.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png"tvg-shift=""group-title="Entretenimiento",TNT Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/93.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png",TNT HD
+#EXTINF:-1 tvg-id="TNT.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png"tvg-shift=""group-title="Entretenimiento",TNT HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/134.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png",TNT HD *
+#EXTINF:-1 tvg-id="TNT.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png"tvg-shift=""group-title="Entretenimiento",TNT HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3371.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/tntserieshd.png",TNT Series
+#EXTINF:-1 tvg-id="TNTSeries.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/tntserieshd.png"tvg-shift=""group-title="Entretenimiento",TNT Series
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13437.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/tntserieshd.png",TNT Series Full HD
+#EXTINF:-1 tvg-id="TNTSeries.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/tntserieshd.png"tvg-shift=""group-title="Entretenimiento",TNT Series Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/94.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/tntserieshd.png",TNT Series HD
+#EXTINF:-1 tvg-id="TNTSeries.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/tntserieshd.png"tvg-shift=""group-title="Entretenimiento",TNT Series HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/132.ts
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://logos.iptv.wtf/entretenimiento/tntserieshd.png",TNT Series HD *
+#EXTINF:-1 tvg-id="TNTSeries.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/tntserieshd.png"tvg-shift=""group-title="Entretenimiento",TNT Series HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3324.ts
-#EXTINF:-1 group-title="Entretenimiento",Tru TV Full HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Entretenimiento",Tru TV Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3320.ts
-#EXTINF:-1 group-title="Entretenimiento",Tru TV HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Entretenimiento",Tru TV HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5935.ts
-#EXTINF:-1 group-title="Entretenimiento",Universal Channel
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Entretenimiento",Universal Channel
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13035.ts
-#EXTINF:-1 group-title="Entretenimiento",Universal Channel Full HD
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="Entretenimiento",Universal Channel Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3335.ts
-#EXTINF:-1 group-title="Entretenimiento",Universal Reality
+#EXTINF:-1 tvg-id="UniversalReality.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Universal Reality
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14937.ts
-#EXTINF:-1 group-title="Entretenimiento",Universal Reality Full HD
+#EXTINF:-1 tvg-id="UniversalReality.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Universal Reality Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14001.ts
-#EXTINF:-1 group-title="Entretenimiento",Universal Reality HD
+#EXTINF:-1 tvg-id="UniversalReality.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Universal Reality HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14936.ts
-#EXTINF:-1 group-title="Entretenimiento",Warner Channel
+#EXTINF:-1 tvg-id="WarnerChannel.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Warner Channel
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13893.ts
-#EXTINF:-1 group-title="Entretenimiento",Warner Channel *
+#EXTINF:-1 tvg-id="WarnerChannel.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Warner Channel *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5943.ts
-#EXTINF:-1 group-title="Entretenimiento",Warner Channel Full HD
+#EXTINF:-1 tvg-id="WarnerChannel.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Warner Channel Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3375.ts
-#EXTINF:-1 group-title="Entretenimiento",Warner Channel HD
+#EXTINF:-1 tvg-id="WarnerChannel.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png"tvg-shift=""group-title="Entretenimiento",Warner Channel HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/131.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/babyfirst.png",Baby First *
+#EXTINF:-1 tvg-id="BabyFirst.mx"tvg-logo="http://logos.iptv.wtf/infantiles/babyfirst.png"tvg-shift=""group-title="Infantiles",Baby First *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13847.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/babyfirst.png",Baby First **
+#EXTINF:-1 tvg-id="BabyFirst.mx"tvg-logo="http://logos.iptv.wtf/infantiles/babyfirst.png"tvg-shift=""group-title="Infantiles",Baby First **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13848.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/babytv.png",Baby TV
+#EXTINF:-1 tvg-id="BabyTv.mx"tvg-logo="http://logos.iptv.wtf/infantiles/babytv.png"tvg-shift=""group-title="Infantiles",Baby TV
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3305.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.mx"tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png"tvg-shift=""group-title="Infantiles",Cartoon Network
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3307.ts
-#EXTINF:-1 group-title="Infantiles",Cartoon Network *
+#EXTINF:-1 tvg-id="CartoonNetwork.mx"tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png"tvg-shift=""group-title="Infantiles",Cartoon Network *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14935.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png",Cartoon Network Full HD
+#EXTINF:-1 tvg-id="CartoonNetwork.mx"tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png"tvg-shift=""group-title="Infantiles",Cartoon Network Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9528.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png",Cartoon Network HD
+#EXTINF:-1 tvg-id="CartoonNetwork.mx"tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png"tvg-shift=""group-title="Infantiles",Cartoon Network HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9529.ts
-#EXTINF:-1 group-title="Infantiles",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png"tvg-shift=""group-title="Infantiles",Cartoonito
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9029.ts
-#EXTINF:-1 group-title="Infantiles",Cartoonito Full HD
+#EXTINF:-1 tvg-id="Cartoonito.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png"tvg-shift=""group-title="Infantiles",Cartoonito Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/245.ts
-#EXTINF:-1 group-title="Infantiles",Cartoonito HD
+#EXTINF:-1 tvg-id="Cartoonito.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png"tvg-shift=""group-title="Infantiles",Cartoonito HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5851.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png",Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKids.mx"tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png"tvg-shift=""group-title="Infantiles",Discovery Kids
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/104.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png",Discovery Kids *
+#EXTINF:-1 tvg-id="DiscoveryKids.mx"tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png"tvg-shift=""group-title="Infantiles",Discovery Kids *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13493.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png",Discovery Kids Full HD
+#EXTINF:-1 tvg-id="DiscoveryKids.mx"tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png"tvg-shift=""group-title="Infantiles",Discovery Kids Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9028.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png",Discovery Kids Full HD *
+#EXTINF:-1 tvg-id="DiscoveryKids.mx"tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png"tvg-shift=""group-title="Infantiles",Discovery Kids Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/124.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png",Discovery Kids HD
+#EXTINF:-1 tvg-id="DiscoveryKids.mx"tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png"tvg-shift=""group-title="Infantiles",Discovery Kids HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/266.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/disneyjr.png",Disney Jr HD
+#EXTINF:-1 tvg-id="DisneyJunior.mx"tvg-logo="http://logos.iptv.wtf/infantiles/disneyjr.png"tvg-shift=""group-title="Infantiles",Disney Jr HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8986.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/nick.png",Nick
+#EXTINF:-1 tvg-id="DisneyChannel.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19234_dark_360w_270h.png"tvg-shift=""group-title="Infantiles",Disney Channel
+http://zeuspro.xyz:8080/BenjaminE7124/0DpqmRRr8J/1377
+#EXTINF:-1 tvg-id="Nick.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nick.png"tvg-shift=""group-title="Infantiles",Nick
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13841.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/nick.png",Nick **
+#EXTINF:-1 tvg-id="Nick.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nick.png"tvg-shift=""group-title="Infantiles",Nick **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13845.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/nick.png",Nick Full HD
+#EXTINF:-1 tvg-id="Nick.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nick.png"tvg-shift=""group-title="Infantiles",Nick Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3310.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/nick.png",Nick Full HD *
+#EXTINF:-1 tvg-id="Nick.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nick.png"tvg-shift=""group-title="Infantiles",Nick Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13843.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/nick.png",Nick HD *
+#EXTINF:-1 tvg-id="Nick.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nick.png"tvg-shift=""group-title="Infantiles",Nick HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13842.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png",Nick Jr
+#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-shift=""group-title="Infantiles",Nick Jr
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13838.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png",Nick Jr *
+#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-shift=""group-title="Infantiles",Nick Jr *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13839.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png",Nick Jr **
+#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-shift=""group-title="Infantiles",Nick Jr **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/95.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png",Nick Jr Full HD
+#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-shift=""group-title="Infantiles",Nick Jr Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6038.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png",Nick Jr Full HD *
+#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-shift=""group-title="Infantiles",Nick Jr Full HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13840.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png",Nick Jr Full HD **
+#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-shift=""group-title="Infantiles",Nick Jr Full HD **
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13836.ts
-#EXTINF:-1 group-title="Infantiles" tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png",Nick Jr HD
+#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-shift=""group-title="Infantiles",Nick Jr HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13837.ts
-#EXTINF:-1 group-title="Infantiles",TeenNick
+#EXTINF:-1 tvg-id="TeenNick.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png"tvg-shift=""group-title="Infantiles",TeenNick
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/137.ts
-#EXTINF:-1 group-title="Infantiles",TeenNick Full HD
+#EXTINF:-1 tvg-id="TeenNick.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png"tvg-shift=""group-title="Infantiles",TeenNick Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/96.ts
-#EXTINF:-1 group-title="Internacionales" tvg-logo="http://logos.iptv.wtf/entretenimiento/antena3.png",Antena 3 Internacional
+#EXTINF:-1 tvg-id="Antena3Internacional.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/antena3.png"tvg-shift=""group-title="Internacionales",Antena 3 Internacional
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8257.ts
-#EXTINF:-1 group-title="Internacionales" tvg-logo="http://img.arirang.com/images/index/arirang.png",Arirang
+#EXTINF:-1 tvg-id="ArirangTV.mx"tvg-logo="http://img.arirang.com/images/index/arirang.png"tvg-shift=""group-title="Internacionales",Arirang
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8658.ts
-#EXTINF:-1 group-title="Internacionales" tvg-logo="http://img.arirang.com/images/index/arirang.png",Arirang HD
+#EXTINF:-1 tvg-id="ArirangTV.mx"tvg-logo="http://img.arirang.com/images/index/arirang.png"tvg-shift=""group-title="Internacionales",Arirang HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8657.ts
-#EXTINF:-1 group-title="Internacionales",Telemundo Internacional
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png"tvg-shift=""group-title="Internacionales",Telemundo Internacional
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13851.ts
-#EXTINF:-1 group-title="Internacionales",Telemundo Internacional HD *
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png"tvg-shift=""group-title="Internacionales",Telemundo Internacional HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13850.ts
-#EXTINF:-1 group-title="Alemania",DE: SKY SPORT 1
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14017.ts
-#EXTINF:-1 group-title="Alemania",DE: SKY SPORT 2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14016.ts
-#EXTINF:-1 group-title="Alemania",DE: SKY SPORT NEWS
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14015.ts
-#EXTINF:-1 group-title="Alemania",DE: SPORT DIGITAL
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14018.ts
-#EXTINF:-1 group-title="Argentina",AR: A24
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6097.ts
-#EXTINF:-1 group-title="Argentina",AR: A24 HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1518.ts
-#EXTINF:-1 group-title="Argentina",AR: A24 HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13721.ts
-#EXTINF:-1 group-title="Argentina",AR: America TV *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1517.ts
-#EXTINF:-1 group-title="Argentina",AR: America TV HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1516.ts
-#EXTINF:-1 group-title="Argentina",AR: El Nueve HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1523.ts
-#EXTINF:-1 group-title="Argentina",AR: El Nueve HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1521.ts
-#EXTINF:-1 group-title="Argentina",AR: El Trece
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13734.ts
-#EXTINF:-1 group-title="Argentina",AR: El Trece HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1525.ts
-#EXTINF:-1 group-title="Argentina",AR: Encuentro
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1530.ts
-#EXTINF:-1 group-title="Argentina",AR: Telefe HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1522.ts
-#EXTINF:-1 group-title="Argentina",AR: Telefe HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1524.ts
-#EXTINF:-1 group-title="Argentina",AR: Telefe HD **
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13736.ts
-#EXTINF:-1 group-title="Argentina",AR: TN *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7474.ts
-#EXTINF:-1 group-title="Argentina",AR: TN HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13738.ts
-#EXTINF:-1 group-title="Argentina",AR: TV Pública
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1519.ts
-#EXTINF:-1 group-title="Argentina",ARG: AXN
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14530.ts
-#EXTINF:-1 group-title="Argentina",ARG: Disney Junior
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14568.ts
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png",ARG: TNT
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14622.ts
-#EXTINF:-1 group-title="Canada",CA: A&AMP;E
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13776.ts
-#EXTINF:-1 group-title="Canada",CA: ABC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11419.ts
-#EXTINF:-1 group-title="Canada",CA: AMC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13751.ts
-#EXTINF:-1 group-title="Canada",CA: beIN Sports HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11422.ts
-#EXTINF:-1 group-title="Canada",CA: Bravo
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11430.ts
-#EXTINF:-1 group-title="Canada",CA: C-PAC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11431.ts
-#EXTINF:-1 group-title="Canada",CA: CANAL SAVOIR
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13767.ts
-#EXTINF:-1 group-title="Canada",CA: CBC EDMONTON
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13793.ts
-#EXTINF:-1 group-title="Canada",CA: CBC HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11451.ts
-#EXTINF:-1 group-title="Canada",CA: CBC News
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11450.ts
-#EXTINF:-1 group-title="Canada",CA: CBC Toronto
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11463.ts
-#EXTINF:-1 group-title="Canada",CA: Citytv Toronto
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11486.ts
-#EXTINF:-1 group-title="Canada",CA: CMT CANADA
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13795.ts
-#EXTINF:-1 group-title="Canada",CA: CNBC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13773.ts
-#EXTINF:-1 group-title="Canada",CA: CNN
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11409.ts
-#EXTINF:-1 group-title="Canada",CA: Comedy
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11495.ts
-#EXTINF:-1 group-title="Canada",CA: CRIME+ INVESTIGATION
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13778.ts
-#EXTINF:-1 group-title="Canada",CA: CTV Calgary
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11508.ts
-#EXTINF:-1 group-title="Canada",CA: CTV DRAMA
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13779.ts
-#EXTINF:-1 group-title="Canada",CA: Discovery Science
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11471.ts
-#EXTINF:-1 group-title="Canada",CA: DIY NETWORK
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13791.ts
-#EXTINF:-1 group-title="Canada",CA: E!
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11555.ts
-#EXTINF:-1 group-title="Canada",CA: FIGHT NETWORK
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13753.ts
-#EXTINF:-1 group-title="Canada",CA: FOOD NETWORK
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13772.ts
-#EXTINF:-1 group-title="Canada",CA: FOX SPORTS RACING
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13743.ts
-#EXTINF:-1 group-title="Canada",CA: FXX
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13754.ts
-#EXTINF:-1 group-title="Canada",CA: GLOBAL
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13755.ts
-#EXTINF:-1 group-title="Canada",CA: GOLF CHANNEL
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13775.ts
-#EXTINF:-1 group-title="Canada" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png",CA: HBO
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13756.ts
-#EXTINF:-1 group-title="Canada" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo2.png",CA: HBO 2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13757.ts
-#EXTINF:-1 group-title="Canada",CA: LIFETIME
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13759.ts
-#EXTINF:-1 group-title="Canada",CA: LOVE NATURE
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13792.ts
-#EXTINF:-1 group-title="Canada",CA: MOVIETIME
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13780.ts
-#EXTINF:-1 group-title="Canada",CA: MSNBC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13781.ts
-#EXTINF:-1 group-title="Canada",CA: PARAMOUNT NETWORK
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13783.ts
-#EXTINF:-1 group-title="Canada",CA: PEACHTREE
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13752.ts
-#EXTINF:-1 group-title="Canada",CA: PRISE
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13784.ts
-#EXTINF:-1 group-title="Canada",CA: RDS
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13785.ts
-#EXTINF:-1 group-title="Canada",CA: RDS 2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13786.ts
-#EXTINF:-1 group-title="Canada",CA: SILVER SCREEN CLASSICS
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13761.ts
-#EXTINF:-1 group-title="Canada",CA: SLICE
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13762.ts
-#EXTINF:-1 group-title="Canada",CA: SPORTSNET 360
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13747.ts
-#EXTINF:-1 group-title="Canada",CA: SPORTSNET ONE
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13748.ts
-#EXTINF:-1 group-title="Canada",CA: SPORTSNET ONTARIO
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13746.ts
-#EXTINF:-1 group-title="Canada",CA: SPORTSNET PACIFIC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13749.ts
-#EXTINF:-1 group-title="Canada",CA: SPORTSNET WEST
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13744.ts
-#EXTINF:-1 group-title="Canada",CA: SPORTSNET WORLD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13750.ts
-#EXTINF:-1 group-title="Canada",CA: THE WEATHER NETWORK
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13794.ts
-#EXTINF:-1 group-title="Canada",CA: TLC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13764.ts
-#EXTINF:-1 group-title="Canada",CA: TREEHOUSE
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13763.ts
-#EXTINF:-1 group-title="Canada",CA: TSN 1
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14008.ts
-#EXTINF:-1 group-title="Canada",CA: TSN 2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14009.ts
-#EXTINF:-1 group-title="Canada",CA: TSN 3
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14010.ts
-#EXTINF:-1 group-title="Canada",CA: TSN 4
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14011.ts
-#EXTINF:-1 group-title="Canada",CA: TSN 5
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14012.ts
-#EXTINF:-1 group-title="Canada",CA: TV5 QUEBEC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13771.ts
-#EXTINF:-1 group-title="Canada",CA: TVA SPORTS
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13745.ts
-#EXTINF:-1 group-title="Canada",CA: UNIS TV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13789.ts
-#EXTINF:-1 group-title="Canada",CA: WWE
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13790.ts
-#EXTINF:-1 group-title="Canada",CA: YES NETWORK
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13796.ts
-#EXTINF:-1 group-title="Canada",CA: YES TV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13765.ts
-#EXTINF:-1 group-title="Colombia",CO: Caracol
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7096.ts
-#EXTINF:-1 group-title="Colombia",CO: Caracol Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1567.ts
-#EXTINF:-1 group-title="Colombia",CO: Caracol Full HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14279.ts
-#EXTINF:-1 group-title="Colombia",CO: Caracol HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13741.ts
-#EXTINF:-1 group-title="Colombia",CO: Caracol HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14280.ts
-#EXTINF:-1 group-title="Colombia",CO: RCN
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1569.ts
-#EXTINF:-1 group-title="Colombia",CO: RCN *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13718.ts
-#EXTINF:-1 group-title="Colombia",CO: RCN HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13527.ts
-#EXTINF:-1 group-title="Colombia",CO: Señal Colombia
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1571.ts
-#EXTINF:-1 group-title="Colombia",CO: Señal Colombia *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1550.ts
-#EXTINF:-1 group-title="Colombia",CO: Señal Colombia **
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13852.ts
-#EXTINF:-1 group-title="Colombia",CO: Telecafe
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1572.ts
-#EXTINF:-1 group-title="Ecuador",EC: Canal Uno HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13733.ts
-#EXTINF:-1 group-title="Ecuador",EC: Gol TV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1580.ts
-#EXTINF:-1 group-title="España",ES: 24 HORAS
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7845.ts
-#EXTINF:-1 group-title="España" tvg-logo="http://logos.iptv.wtf/entretenimiento/antena3.png",ES: Antena 3 HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8234.ts
-#EXTINF:-1 group-title="España" tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png",ES: AXN Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8218.ts
-#EXTINF:-1 group-title="España",ES: AXN White Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8214.ts
-#EXTINF:-1 group-title="España",ES: Boing
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8180.ts
-#EXTINF:-1 group-title="España",ES: DAZN F1 HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7839.ts
-#EXTINF:-1 group-title="España",ES: DAZN F1 HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8006.ts
-#EXTINF:-1 group-title="España",ES: Dmax *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14802.ts
-#EXTINF:-1 group-title="España",ES: EuroSport 1
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7986.ts
-#EXTINF:-1 group-title="España",ES: EuroSport 2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7988.ts
-#EXTINF:-1 group-title="España",ES: La Sexta HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7911.ts
-#EXTINF:-1 group-title="España",ES: M+ DAZN F1
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8021.ts
-#EXTINF:-1 group-title="España",ES: M+ Liga de Campeones
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8038.ts
-#EXTINF:-1 group-title="España",ES: Movistar Deportes
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14014.ts
-#EXTINF:-1 group-title="España",ES: Neox HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8167.ts
-#EXTINF:-1 group-title="España",ES: Nova
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8172.ts
-#EXTINF:-1 group-title="España",ES: Odisea 4K
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14286.ts
-#EXTINF:-1 group-title="Italia",IT: SKY SPORT F1
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14026.ts
-#EXTINF:-1 group-title="Italia",IT: SKY SPORT FOOTBALL
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14025.ts
-#EXTINF:-1 group-title="Italia",IT: SKY SPORT GOLF
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14020.ts
-#EXTINF:-1 group-title="Italia",IT: SPORT ITALIA
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14022.ts
-#EXTINF:-1 group-title="México",MX: ADN 40
+#EXTINF:-1 tvg-id="ADN40.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png"tvg-shift=""group-title="México",MX: ADN 40
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3306.ts
-#EXTINF:-1 group-title="México",MX: LAS ESTRELLAS MX
+#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"tvg-shift=""group-title="México",MX: LAS ESTRELLAS MX
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="México",MX: LAS ESTRELLAS MX -1HR
+#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"tvg-shift="-1"group-title="México",MX: LAS ESTRELLAS MX -1HR
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-#EXTINF:-1group-title="México",MX: LAS ESTRELLAS MX -2HR
+#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"tvg-shift="-2"group-title="México",MX: LAS ESTRELLAS MX -2HR
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="México",MX: LAS ESTRELLAS LATAM
+#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"tvg-shift=""group-title="México",MX: LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="México",MX: IMAGEN TV
+#EXTINF:-1 tvg-id="ImagenTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png"tvg-shift=""group-title="México",MX: IMAGEN TV
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
-#EXTINF:-1 group-title="México",MX: IMAGEN TV
+#EXTINF:-1 tvg-id="ImagenTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png"tvg-shift=""group-title="México",MX: IMAGEN TV
 http://th4.online:2095/jositosder/bDeGYPqwA8JR/21484
-#EXTINF:-1 group-title="México",MX: IMAGEN TV
+#EXTINF:-1 tvg-id="ImagenTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png"tvg-shift=""group-title="México",MX: IMAGEN TV
 http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586268
-#EXTINF:-1 group-title="México",MX: CANAL 5
+#EXTINF:-1 tvg-id="Canal5.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"tvg-shift=""group-title="México",MX: CANAL 5
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155865
-#EXTINF:-1 group-title="México",MX: CANAL 5
+#EXTINF:-1 tvg-id="Canal5.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"tvg-shift=""group-title="México",MX: CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 group-title="México",MX: CANAL 5
+#EXTINF:-1 tvg-id="Canal5.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"tvg-shift=""group-title="México",MX: CANAL 5
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="México",MX: ONCE
+#EXTINF:-1 tvg-id="Once.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png"tvg-shift=""group-title="México",MX: ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="México",MX: NU9VE
+#EXTINF:-1 tvg-id="CanalNueve.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59528_dark_360w_270h.png"tvg-shift=""group-title="México",MX: NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-#EXTINF:-1 group-title="México",MX: NU9VE
+#EXTINF:-1 tvg-id="CanalNueve.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59528_dark_360w_270h.png"tvg-shift=""group-title="México",MX: NU9VE
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="México",MX: ADN 40
+#EXTINF:-1 tvg-id="ADN40.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png"tvg-shift=""group-title="México",MX: ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="México",MX: FORO TV
+#EXTINF:-1 tvg-id="ForoTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png"tvg-shift=""group-title="México",MX: FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 group-title="México",MX: FORO TV
+#EXTINF:-1 tvg-id="ForoTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png"tvg-shift=""group-title="México",MX: FORO TV
 https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="México",MX: Azteca 7 Full HD
+#EXTINF:-1 tvg-id="Azteca7.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png"tvg-shift=""group-title="México",MX: Azteca 7 Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3370.ts
-#EXTINF:-1 group-title="México",MX: El Financiero Bloomberg
+#EXTINF:-1 tvg-id="ElFinanciero.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87311_dark_360w_270h.png"tvg-shift=""group-title="México",MX: El Financiero Bloomberg
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3325.ts
-#EXTINF:-1 group-title="México",MX: Milenio TV
+#EXTINF:-1 tvg-id="Milenio.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61719_dark_360w_270h.png"tvg-shift=""group-title="México",MX: Milenio TV
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3372.ts
-#EXTINF:-1 group-title="México",MX: Star TVE
+#EXTINF:-1 tvg-id="StarTVE.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png"tvg-shift=""group-title="México",MX: Star TVE
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3339.ts
-#EXTINF:-1 group-title="México",MX: Televisa Puebla
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="México",MX: Televisa Puebla
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3326.ts
-#EXTINF:-1 group-title="México",MX: TV Más
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-shift=""group-title="México",MX: TV Más
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3360.ts
-#EXTINF:-1 group-title="México" tvg-logo="http://logos.iptv.wtf/deportes/tvcdeportes.png",MX: TVC Deportes HD
+#EXTINF:-1 tvg-id="TVCDeportes.mx"tvg-logo="http://logos.iptv.wtf/deportes/tvcdeportes.png"tvg-shift=""group-title="México",MX: TVC Deportes HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3353.ts
-#EXTINF:-1 group-title="México",MX: Unicable
+#EXTINF:-1 tvg-id="Unicable.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png"tvg-shift=""group-title="México",MX: Unicable
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/237.ts
-#EXTINF:-1 group-title="Paraguay",PY: C9N
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13717.ts
-#EXTINF:-1 group-title="Paraguay",PY: Gen
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13853.ts
-#EXTINF:-1 group-title="Paraguay",PY: Telefuturo
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13854.ts
-#EXTINF:-1 group-title="Perú",PE: América TV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11390.ts
-#EXTINF:-1 group-title="Perú",PE: América TV *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1508.ts
-#EXTINF:-1 group-title="Perú",PE: América TV **
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7200.ts
-#EXTINF:-1 group-title="Perú",PE: América TV ***
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14940.ts
-#EXTINF:-1 group-title="Perú",PE: ATV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1507.ts
-#EXTINF:-1 group-title="Perú",PE: ATV HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11375.ts
-#EXTINF:-1 group-title="Perú",PE: ATV Plus
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6047.ts
-#EXTINF:-1 group-title="Perú",PE: BHTV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1506.ts
-#EXTINF:-1 group-title="Perú",PE: Canal N
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1500.ts
-#EXTINF:-1 group-title="Perú",PE: Exitosa
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13712.ts
-#EXTINF:-1 group-title="Perú",PE: Gol Peru HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1545.ts
-#EXTINF:-1 group-title="Perú",PE: IPE
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13714.ts
-#EXTINF:-1 group-title="Perú",PE: Latina
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11382.ts
-#EXTINF:-1 group-title="Perú",PE: Latina *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13710.ts
-#EXTINF:-1 group-title="Perú",PE: Latina **
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13711.ts
-#EXTINF:-1 group-title="Perú",PE: Movistar Deportes
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11385.ts
-#EXTINF:-1 group-title="Perú",PE: Movistar Deportes HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1503.ts
-#EXTINF:-1 group-title="Perú",PE: Movistar Plus
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13716.ts
-#EXTINF:-1 group-title="Perú",PE: Panamericana *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11376.ts
-#EXTINF:-1 group-title="Perú",PE: Perú Mágico
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1505.ts
-#EXTINF:-1 group-title="Perú",PE: RPP
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11392.ts
-#EXTINF:-1 group-title="Perú",PE: TV Perú Internacional
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13715.ts
-#EXTINF:-1 group-title="Perú",PE: TV Perú Noticias
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11373.ts
-#EXTINF:-1 group-title="Perú",PE: Willax
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11384.ts
-#EXTINF:-1 group-title="Perú",PE: Willax *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11368.ts
-#EXTINF:-1 group-title="USA",USA: ABC Miami
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13487.ts
-#EXTINF:-1 group-title="USA",USA: ABC News HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13486.ts
-#EXTINF:-1 group-title="USA",USA: ABC News Live
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13488.ts
-#EXTINF:-1 group-title="USA" tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png",USA: Animal Planet
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8997.ts
-#EXTINF:-1 group-title="USA",USA: BBC America
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7209.ts
-#EXTINF:-1 group-title="USA",USA: BBC World News
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8993.ts
-#EXTINF:-1 group-title="USA",USA: CBS News Bay Area
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7228.ts
-#EXTINF:-1 group-title="USA",USA: CBS News HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5481.ts
-#EXTINF:-1 group-title="USA",USA: CBS News Los Ángeles
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7226.ts
-#EXTINF:-1 group-title="USA",USA: CBS News New York
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7227.ts
-#EXTINF:-1 group-title="USA",USA: Cinemax HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5488.ts
-#EXTINF:-1 group-title="USA",USA: Cinemax More Max
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13728.ts
-#EXTINF:-1 group-title="USA",USA: CMT
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8999.ts
-#EXTINF:-1 group-title="USA",USA: CNBC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7230.ts
-#EXTINF:-1 group-title="USA",USA: CNN
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8994.ts
-#EXTINF:-1 group-title="USA",USA: Cozi TV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7234.ts
-#EXTINF:-1 group-title="USA",USA: Destination America
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13727.ts
-#EXTINF:-1 group-title="USA",USA: E! Entertainment
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7240.ts
-#EXTINF:-1 group-title="USA" tvg-logo="http://logos.iptv.wtf/culturales/foodnetwork.png",USA: ESPN Deportes
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5493.ts
-#EXTINF:-1 group-title="USA",USA: ESPN News
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5487.ts
-#EXTINF:-1 group-title="USA" tvg-logo="http://logos.iptv.wtf/culturales/foodnetwork.png",USA: Food Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5494.ts
-#EXTINF:-1 group-title="USA",USA: Fox Business Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7250.ts
-#EXTINF:-1 group-title="USA",USA: Fox Deportes
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7251.ts
-#EXTINF:-1 group-title="USA",USA: Fox News
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7254.ts
-#EXTINF:-1 group-title="USA",USA: Fox News **
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14889.ts
-#EXTINF:-1 group-title="USA" tvg-logo="http://logos.iptv.wtf/deportes/foxsports1.png",USA: Fox Sports 1
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6925.ts
-#EXTINF:-1 group-title="USA",USA: Fox Sports Sun
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7319.ts
-#EXTINF:-1 group-title="USA",USA: Hallmark Channel
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7287.ts
-#EXTINF:-1 group-title="USA",USA: Hallmark Movies & Mysteries
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7289.ts
-#EXTINF:-1 group-title="USA" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png",USA: HBO
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6042.ts
-#EXTINF:-1 group-title="USA" tvg-logo="http://logos.iptv.wtf/culturales/history.png",USA: History
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7291.ts
-#EXTINF:-1 group-title="USA",USA: HLN
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8995.ts
-#EXTINF:-1 group-title="USA",USA: MotorTrend
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7298.ts
-#EXTINF:-1 group-title="USA",USA: MSNBC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7302.ts
-#EXTINF:-1 group-title="USA",USA: MTV Classic
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7305.ts
-#EXTINF:-1 group-title="USA",USA: MTV HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7303.ts
-#EXTINF:-1 group-title="USA",USA: MTV Live
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7306.ts
-#EXTINF:-1 group-title="USA",USA: NBC Austin
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7294.ts
-#EXTINF:-1 group-title="USA",USA: NBC Los Angeles
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7312.ts
-#EXTINF:-1 group-title="USA",USA: NBC Miami
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7313.ts
-#EXTINF:-1 group-title="USA",USA: NBC New York
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7315.ts
-#EXTINF:-1 group-title="USA",USA: NBC Sports Bay Area HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7320.ts
-#EXTINF:-1 group-title="USA",USA: NBC Sports California
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7321.ts
-#EXTINF:-1 group-title="USA",USA: NBC Sports Chicago
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7317.ts
-#EXTINF:-1 group-title="USA",USA: NBC Sports Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8992.ts
-#EXTINF:-1 group-title="USA",USA: NBC Sports Philadelphia
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7323.ts
-#EXTINF:-1 group-title="USA",USA: NBC Sports Washington
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7324.ts
-#EXTINF:-1 group-title="USA",USA: NESN
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7326.ts
-#EXTINF:-1 group-title="USA",USA: NESN Plus
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7327.ts
-#EXTINF:-1 group-title="USA",USA: News Max
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8991.ts
-#EXTINF:-1 group-title="USA",USA: NFL Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6974.ts
-#EXTINF:-1 group-title="USA",USA: NFL RedZone
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6975.ts
-#EXTINF:-1 group-title="USA",USA: NHL Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7334.ts
-#EXTINF:-1 group-title="USA",USA: Oxygen
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7335.ts
-#EXTINF:-1 group-title="USA",USA: PAC-12 Oregon
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7341.ts
-#EXTINF:-1 group-title="USA",USA: Pac-12 Washington
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7342.ts
-#EXTINF:-1 group-title="USA",USA: Paramount Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7340.ts
-#EXTINF:-1 group-title="USA",USA: POP TV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7345.ts
-#EXTINF:-1 group-title="USA",USA: Pursuit Channel
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7336.ts
-#EXTINF:-1 group-title="USA",USA: Revolt
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7347.ts
-#EXTINF:-1 group-title="USA",USA: Smithsonian Channel
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7349.ts
-#EXTINF:-1 group-title="USA",USA: Sony Movie Channel
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7351.ts
-#EXTINF:-1 group-title="USA",USA: Sundance
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7379.ts
-#EXTINF:-1 group-title="USA",USA: Syfy
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7356.ts
-#EXTINF:-1 group-title="USA",USA: TBS
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5531.ts
-#EXTINF:-1 group-title="USA",USA: TCM
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7307.ts
-#EXTINF:-1 group-title="USA",USA: Teen Nick
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7357.ts
-#EXTINF:-1 group-title="USA",USA: Telemundo Las Vegas
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7391.ts
-#EXTINF:-1 group-title="USA",USA: Telemundo Los Angeles
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7358.ts
-#EXTINF:-1 group-title="USA",USA: Tennis Channel
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7022.ts
-#EXTINF:-1 group-title="USA",USA: The Weather Channel
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8996.ts
-#EXTINF:-1 group-title="USA" tvg-logo="http://logos.iptv.wtf/culturales/discoverytlc.png",USA: TLC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5533.ts
-#EXTINF:-1 group-title="USA" tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png",USA: TNT
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5520.ts
-#EXTINF:-1 group-title="USA",USA: Travel Channel
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7362.ts
-#EXTINF:-1 group-title="USA",USA: Tru TV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7378.ts
-#EXTINF:-1 group-title="USA",USA: TVG Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7363.ts
-#EXTINF:-1 group-title="USA",USA: UFC Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7386.ts
-#EXTINF:-1 group-title="USA",USA: Universal Kids
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7372.ts
-#EXTINF:-1 group-title="USA",USA: Univision
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7375.ts
-#EXTINF:-1 group-title="USA",USA: Univision *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7374.ts
-#EXTINF:-1 group-title="USA",USA: Univision Miami
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7377.ts
-#EXTINF:-1 group-title="USA",USA: USA Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7385.ts
-#EXTINF:-1 group-title="USA",USA: VH1
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7371.ts
-#EXTINF:-1 group-title="USA",USA: Viceland
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7387.ts
-#EXTINF:-1 group-title="USA",USA: WE TV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7388.ts
-#EXTINF:-1 group-title="USA" tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png",USA: WWE Network
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/7361.ts
-#EXTINF:-1 group-title="Uruguay",UY: Canal 10
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11352.ts
-#EXTINF:-1 group-title="Uruguay",UY: Canal 11 Punta del este
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11353.ts
-#EXTINF:-1 group-title="Uruguay",UY: Canal 3 Artigas Television
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11346.ts
-#EXTINF:-1 group-title="Uruguay",UY: Canal 4
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11350.ts
-#EXTINF:-1 group-title="Uruguay",UY: Canal 4 *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14798.ts
-#EXTINF:-1 group-title="Uruguay",UY: Canal 4 Salto *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14799.ts
-#EXTINF:-1 group-title="Uruguay",UY: VTV *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11356.ts
-#EXTINF:-1 group-title="Uruguay",UY: VTV **
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11364.ts
-#EXTINF:-1 group-title="Uruguay",UY: VTV HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11366.ts
-#EXTINF:-1 group-title="Uruguay",UY: VTV Plus *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11357.ts
-#EXTINF:-1 group-title="Uruguay",UY: VTV Plus HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11360.ts
-#EXTINF:-1 group-title="Música" tvg-logo="http://logos.iptv.wtf/musica/htv.png",HTV
+#EXTINF:-1 tvg-id="HTV.mx"tvg-logo="http://logos.iptv.wtf/musica/htv.png"tvg-shift=""group-title="Música",HTV
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13483.ts
-#EXTINF:-1 group-title="Música" tvg-logo="http://logos.iptv.wtf/musica/htv.png",HTV *
+#EXTINF:-1 tvg-id="HTV.mx"tvg-logo="http://logos.iptv.wtf/musica/htv.png"tvg-shift=""group-title="Música",HTV *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9121.ts
-#EXTINF:-1 group-title="Música",MTV 00s Full HD
+#EXTINF:-1 tvg-id="MTV00s.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png"tvg-shift=""group-title="Música",MTV 00s Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3350.ts
-#EXTINF:-1 group-title="Música",MTV 80s
+#EXTINF:-1 tvg-id="MTV80s.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png"tvg-shift=""group-title="Música",MTV 80s
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13858.ts
-#EXTINF:-1 group-title="Música",MTV Full HD
+#EXTINF:-1 tvg-id="MTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png"tvg-shift=""group-title="Música",MTV Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3343.ts
-#EXTINF:-1 group-title="Música",MTV Hits
+#EXTINF:-1 tvg-id="MTVHitsInternational.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67787_dark_360w_270h.png"tvg-shift=""group-title="Música",MTV Hits
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5904.ts
-#EXTINF:-1 group-title="Música",MTV Live Full HD
+#EXTINF:-1 tvg-id="MTVLive(English).mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66419_dark_360w_270h.png"tvg-shift=""group-title="Música",MTV Live Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3348.ts
-#EXTINF:-1 group-title="Música",Telehit Plus Full HD
+#EXTINF:-1 tvg-id="Telehit.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png"tvg-shift=""group-title="Música",Telehit Plus Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13856.ts
-#EXTINF:-1 group-title="Brasil",BR: ESPN 2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15098.ts
-#EXTINF:-1 group-title="Brasil",BR: ESPN
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15100.ts
-#EXTINF:-1 group-title="Brasil",BR: ESPN Brasil
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15171.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png",TNT Sports HD **
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15174.ts
-#EXTINF:-1 group-title="Venezuela",VE: MERIDIANO
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15175.ts
-#EXTINF:-1 group-title="Venezuela",VE: TLT
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15176.ts
-#EXTINF:-1 group-title="Venezuela",VE: Venevision
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15177.ts
-#EXTINF:-1 group-title="Venezuela",VE: Venevision Plus
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15178.ts
-#EXTINF:-1 group-title="Venezuela",VE: Telesur
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15179.ts
-#EXTINF:-1 group-title="Venezuela",VE: Globovision
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15180.ts
-#EXTINF:-1 group-title="Venezuela",VE: Televen
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15181.ts
-#EXTINF:-1 group-title="Venezuela",VE: Telesur *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15182.ts
-#EXTINF:-1 group-title="Venezuela",VE: TVES
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15186.ts
-#EXTINF:-1 group-title="Venezuela",VE: Promar TV
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/15187.ts
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
