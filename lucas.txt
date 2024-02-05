@@ -310,7 +310,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13833.ts
 #EXTINF:-1 tvg-id="LoveNature.co"tvg-logo="https://logos.iptv.wtf/culturales/lovenature.png"tvg-shift=""group-title="Culturales",CL: Love Nature
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14281.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx"tvg-logo="http://logos.iptv.wtf/culturales/discovery.png"tvg-shift=""group-title="Culturales",Discovery Channel
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13828.ts
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/222
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx"tvg-logo="http://logos.iptv.wtf/culturales/discovery.png"tvg-shift=""group-title="Culturales",Discovery Channel *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13830.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx"tvg-logo="http://logos.iptv.wtf/culturales/discovery.png"tvg-shift=""group-title="Culturales",Discovery Channel **
@@ -322,7 +322,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/105.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx"tvg-logo="http://logos.iptv.wtf/culturales/discovery.png"tvg-shift=""group-title="Culturales",Discovery Channel HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/123.ts
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png"tvg-shift=""group-title="Culturales",Discovery Home and Health
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13827.ts
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/221
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png"tvg-shift=""group-title="Culturales",Discovery Home and Health *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13826.ts
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx"tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png"tvg-shift=""group-title="Culturales",Discovery Home and Health Full HD
@@ -392,9 +392,9 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13031.ts
 #EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/culturales/id.png"tvg-shift=""group-title="Culturales",Investigation Discovery HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/138.ts
 #EXTINF:-1 tvg-id="NationalGeographic.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png"tvg-shift=""group-title="Culturales",NatGeo *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13823.ts
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/245
 #EXTINF:-1 tvg-id="NationalGeographic.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png"tvg-shift=""group-title="Culturales",NatGeo HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13821.ts
+http://89.187.167.92:80/live.ts?channelId=54&deviceUser=alex1234&devicePass=alex1234&uid=21890
 #EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/ae.png"tvg-shift=""group-title="Entretenimiento",A&E
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3369.ts
 #EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/entretenimiento/ae.png"tvg-shift=""group-title="Entretenimiento",A&E Full HD
