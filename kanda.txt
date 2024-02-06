@@ -236,7 +236,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Paramount.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Entretenimiento",Paramount
 http://latinoamericatv.vip:8080/LuisSanchezIPTVCLUB/Emtjnc7VH6sL/110161
 #EXTINF:-1 tvg-id="Paramount.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Entretenimiento",Paramount Op2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3345.ts
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1166
 #EXTINF:-1 tvg-id="CanalSony.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Entretenimiento",Sony
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/16
 #EXTINF:-1 tvg-id="CanalSony.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Entretenimiento",Sony Op2
@@ -303,48 +303,28 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3305.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3307.ts
 #EXTINF:-1 tvg-id="CartoonNetwork.mx"tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Cartoon Network *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14935.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.mx"tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Cartoon Network Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9528.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.mx"tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Cartoon Network HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9529.ts
 #EXTINF:-1 tvg-id="Cartoonito.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Cartoonito
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9029.ts
 #EXTINF:-1 tvg-id="Cartoonito.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Cartoonito Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/245.ts
-#EXTINF:-1 tvg-id="Cartoonito.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Cartoonito HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5851.ts
 #EXTINF:-1 tvg-id="DiscoveryKids.mx"tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Discovery Kids
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/104.ts
-#EXTINF:-1 tvg-id="DiscoveryKids.mx"tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Discovery Kids *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13493.ts
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/43
+#EXTINF:-1 tvg-id="DiscoveryKids.mx"tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Discovery Kids Op2
+http://latinoamericatv.vip:8080/LuisSanchezIPTVCLUB/Emtjnc7VH6sL/132701
+#EXTINF:-1 tvg-id="DiscoveryKids.mx"tvg-logo="http://logos.iptv.wtf/infantiles/discoverykids.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Discovery Kids Op3
+http://latinoamericatv.vip:8080/LuisSanchezIPTVCLUB/Emtjnc7VH6sL/132702
 #EXTINF:-1 tvg-id="DisneyJunior.mx"tvg-logo="http://logos.iptv.wtf/infantiles/disneyjr.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Disney Jr HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/8986.ts
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/44
 #EXTINF:-1 tvg-id="DisneyChannel.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19234_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Disney Channel
-http://zeuspro.xyz:8080/BenjaminE7124/0DpqmRRr8J/1377
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/46
 #EXTINF:-1 tvg-id="Nick.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nick.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13841.ts
-#EXTINF:-1 tvg-id="Nick.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nick.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick **
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/48
+#EXTINF:-1 tvg-id="Nick.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nick.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick Op2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13845.ts
-#EXTINF:-1 tvg-id="Nick.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nick.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3310.ts
-#EXTINF:-1 tvg-id="Nick.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nick.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick Full HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13843.ts
-#EXTINF:-1 tvg-id="Nick.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nick.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13842.ts
 #EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick Jr
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13838.ts
-#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick Jr *
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/45
+#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick Jr Op2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13839.ts
-#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick Jr **
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/95.ts
-#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick Jr Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6038.ts
-#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick Jr Full HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13840.ts
-#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick Jr Full HD **
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13836.ts
-#EXTINF:-1 tvg-id="NickJr.mx"tvg-logo="http://logos.iptv.wtf/infantiles/nickjr.png"tvg-chno=""tvg-shift=""group-title="Infantiles",Nick Jr HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13837.ts
 #EXTINF:-1 tvg-id="TeenNick.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Infantiles",TeenNick
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/137.ts
 #EXTINF:-1 tvg-id="TeenNick.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Infantiles",TeenNick Full HD
@@ -361,26 +341,22 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13851.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13850.ts
 #EXTINF:-1 tvg-id="ADN40.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: ADN 40
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3306.ts
-#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: LAS ESTRELLAS MX
+#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",LAS ESTRELLAS
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"tvg-chno=""tvg-shift="-1"group-title="México",MX: LAS ESTRELLAS MX -1HR
+#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"tvg-chno=""tvg-shift="-1"group-title="México",LAS ESTRELLAS -1HR
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"tvg-chno=""tvg-shift="-2"group-title="México",MX: LAS ESTRELLAS MX -2HR
+#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"tvg-chno=""tvg-shift="-2"group-title="México",LAS ESTRELLAS -2HR
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: LAS ESTRELLAS LATAM
+#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",LAS ESTRELLAS Op2
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: IMAGEN TV
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
+#EXTINF:-1 tvg-id="ImagenTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",IMAGEN TV
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1695
 #EXTINF:-1 tvg-id="ImagenTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: IMAGEN TV
 http://th4.online:2095/jositosder/bDeGYPqwA8JR/21484
-#EXTINF:-1 tvg-id="ImagenTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: IMAGEN TV
-http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586268
 #EXTINF:-1 tvg-id="Canal5.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: CANAL 5
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155865
 #EXTINF:-1 tvg-id="Canal5.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: CANAL 5
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Once.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalNueve.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59528_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: NU9VE
@@ -389,12 +365,22 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: FORO TV
+#EXTINF:-1 tvg-id="ForoTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: FORO TV
+#EXTINF:-1 tvg-id="ForoTV.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",FORO TV
 https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: Azteca 7 Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3370.ts
+#EXTINF:-1 tvg-id="Azteca7.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",Azteca 7
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/6
+#EXTINF:-1 tvg-id="Azteca7.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",Azteca 7
+http://latinoamericatv.vip:8080/LuisSanchezIPTVCLUB/Emtjnc7VH6sL/63185
+#EXTINF:-1 tvg-id="Azteca7.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",Azteca 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",Azteca 7
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",Azteca 7
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="ElFinanciero.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87311_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: El Financiero Bloomberg
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3325.ts
 #EXTINF:-1 tvg-id="Milenio.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61719_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="México",MX: Milenio TV
