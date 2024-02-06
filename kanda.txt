@@ -13,7 +13,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-id="MeganoticiasMX.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16292_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Noticias",Exelsior TV
 https://ythlsgo.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""tvg-shift=""group-title="Noticias",EuroNews en español
+#EXTINF:-1 tvg-id="euronews.mx"tvg-logo=""tvg-chno=""tvg-shift=""group-title="Noticias",Euronews
 https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""tvg-shift=""group-title="Noticias",Mexiquense Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
@@ -23,40 +23,48 @@ https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",Espn Deportes
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
+#EXTINF:-1 tvg-id="FOXSports1.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",Fox Sports
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/92
+#EXTINF:-1 tvg-id="FoxSports2.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",Fox Sports 2
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/93
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",Fox Sports Premium
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/992
+#EXTINF:-1 tvg-id="FoxSports3.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79923_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",Fox Sports 3 op2
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/100
 #EXTINF:-1 tvg-id="FoxSports3.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79923_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",Fox Sports 3
 http://167.250.222.35:16000/play/a07u/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",ESPN
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/97
+#EXTINF:-1 tvg-id="ESPN2.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",ESPN 2 OP2
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1456
 #EXTINF:-1 tvg-id="ESPN2.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",ESPN 2
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
+#EXTINF:-1 tvg-id="ESPN3.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",ESPN 3 op2
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/91
 #EXTINF:-1 tvg-id="ESPN3.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",ESPN 3
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
-#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/cdop.png"tvg-chno=""tvg-shift=""group-title="Deportes",CDO Premium
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/36.ts
-#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/cdop.png"tvg-chno=""tvg-shift=""group-title="Deportes",CDO Premium HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/37.ts
-#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/cdo.png"tvg-chno=""tvg-shift=""group-title="Deportes",CDO HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13892.ts
-#EXTINF:-1 tvg-id="ESPN3.co"tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png"tvg-chno=""tvg-shift=""group-title="Deportes",CL: ESPN 3 HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/33.ts
-#EXTINF:-1 tvg-id="ESPN4SUR.co"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122027_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",CL: ESPN 4 HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13890.ts
-#EXTINF:-1 tvg-id="ESPNEXTRA.co"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",CL: ESPN Extra
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13891.ts
-#EXTINF:-1 tvg-id="ESPN.co"tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png"tvg-chno=""tvg-shift=""group-title="Deportes",CL: ESPN HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/31.ts
-#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/foxsports1.png"tvg-chno=""tvg-shift=""group-title="Deportes",CL: Fox Sports 1
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9673.ts
-#EXTINF:-1 tvg-id="FoxSports2.co"tvg-logo="http://logos.iptv.wtf/deportes/foxsports2.png"tvg-chno=""tvg-shift=""group-title="Deportes",CL: Fox Sports 2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9674.ts
-#EXTINF:-1 tvg-id="FoxSports3.co"tvg-logo="http://logos.iptv.wtf/deportes/foxsports3.png"tvg-chno=""tvg-shift=""group-title="Deportes",CL: Fox Sports 3
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9675.ts
-#EXTINF:-1 tvg-id=""tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",Claro Sports
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14028.ts
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""tvg-shift=""group-title="Deportes",DE: SKY SPORT F1
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14898.ts
-#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png"tvg-chno=""tvg-shift=""group-title="Deportes",DirecTV Sports 2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/43.ts
-#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png"tvg-chno=""tvg-shift=""group-title="Deportes",DirecTV Sports 2 Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/41.ts
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""tvg-shift=""group-title="Deportes",ESPN Plus
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/90
+#EXTINF:-1 tvg-id="TUDN.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",TUDN
+https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Afizzionados.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s108506_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",Afizzionados
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/cdo.png"tvg-chno=""tvg-shift=""group-title="Deportes",Zona Tudn
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""tvg-shift=""group-title="Deportes",ITV Deportes
+https://stitcher.pluto.tv/stitch/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
+#EXTINF:-1 tvg-id="AyMSports.mx"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34863_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",AyM sports
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Deportes",beIN Sport Xtra en Español
+https://stitcher.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1ec28758-b98f-11ee-9a86-3af04881208a
+#EXTINF:-1 tvg-id="ESPN.co"tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png"tvg-chno=""tvg-shift=""group-title="Deportes",M+ La Liga
+http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""tvg-shift=""group-title="Deportes",Golazo Network
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1ec28758-b98f-11ee-9a86-3af04881208a
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png"tvg-chno=""tvg-shift=""group-title="Deportes",Wapa Deportes
+https://live.field59.com/wapa/wapa2/.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png"tvg-chno=""tvg-shift=""group-title="Deportes",Teledeportes
+https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png"tvg-chno=""tvg-shift=""group-title="Deportes",DirecTV Sports 2 HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/42.ts
 #EXTINF:-1 tvg-id=""tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png"tvg-chno=""tvg-shift=""group-title="Deportes",DirecTv Sports HD **
