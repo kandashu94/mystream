@@ -134,7 +134,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13031.ts
 #EXTINF:-1 tvg-id="NationalGeographic.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Culturales":http-referrer="",NatGeo
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/63
 #EXTINF:-1 tvg-id="NationalGeographic.mx"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png"tvg-chno=""tvg-shift=""group-title="Culturales":http-referrer="",NatGeo Op2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13821.ts
+http://latinoamericatv.vip:8080/LuisSanchezIPTVCLUB/Emtjnc7VH6sL/53491
 #EXTINF:-1 tvg-id="207dtv.cl"tvg-logo="http://logos.iptv.wtf/entretenimiento/ae.png"tvg-chno=""tvg-shift=""group-title="Entretenimiento":http-referrer="",A&E
 http://latinoamericatv.vip:8080/LuisSanchezIPTVCLUB/Emtjnc7VH6sL/6
 #EXTINF:-1 tvg-id="207dtv.cl"tvg-logo="http://logos.iptv.wtf/entretenimiento/ae.png"tvg-chno=""tvg-shift=""group-title="Entretenimiento":http-referrer="",A&E op2
