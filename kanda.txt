@@ -202,7 +202,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/121
 #EXTINF:-1 tvg-id="HBO2.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo2.png"tvg-chno=""tvg-shift=""group-title="Entretenimiento":http-referrer="",HBO 2 OP2
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3867
 #EXTINF:-1 tvg-id="HBOFamily.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png"tvg-chno=""tvg-shift=""group-title="Entretenimiento":http-referrer="",HBO Family
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/119
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/236489
 #EXTINF:-1 tvg-id="HBOFamily.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png"tvg-chno=""tvg-shift=""group-title="Entretenimiento":http-referrer="",HBO Family
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3868
 #EXTINF:-1 tvg-id="HBOMundi.mx"tvg-logo="http://logos.iptv.wtf/entretenimiento/hbomundi.png"tvg-chno=""tvg-shift=""group-title="Entretenimiento":http-referrer="",HBO Mundi
